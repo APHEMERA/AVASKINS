@@ -1,0 +1,441 @@
+{
+    "list": [
+        {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_banana.c87718bc7cae9f6f76621994b1f63a45cd8fe791.png",
+            "name": "Crazy Banana"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_boss.f09c46b0f3081f2abdb5e1e997d976661ef317ff.png",
+            "name": "The Boss"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_chickenlover.eb307d9b0b30fb8d7e7f7fa3241b06faec0de9f7.png",
+            "name": "Chicken Lover"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_clutch.74b19639e23b3f9a76237d99dff006b8a48ebf4f.png",
+            "name": "Welcome to the Clutch"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_dragon.3da2149a5e4b27e730dafd5478deed2a6526fddb.png",
+            "name": "Dragon"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_easypeasy.9fc7d3f57b322bd21694e4c42807e3af11cf2889.png",
+            "name": "Easy Peasy"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_fury.234931e35e41182ebb084698ea9fca2910a0304f.png",
+            "name": "Rage"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_howl.4cd41a03c5a19b05ca872230e608016d3f4668f5.png",
+            "name": "Howl"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_koi.31ab30ccc3cb68b60c2baee6c48c001349da78f8.png",
+            "name": "Koi"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_longevity.e901131f7968d7583c4883ef560932be696616d4.png",
+            "name": "Longevity"
+          },{
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_wildfire.2f67bcb2179a01c4a07e6f3c987b93080f421729.png",
+            "name": "Wildfire"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_vigilance.09a7de88f93d82e5b2c04b4f3899e8ddbedb6ae1.png",
+            "name": "Vigilance"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_bloodhound.1637dffd1fe46d17bb5bde4c2e3b335488a3b02c.png",
+            "name": "Bloodhound"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_bravo.807f0acfd797c4dd2ccd416e4610c42a4e03671c.png",
+            "name": "Bravo"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_breakout.b97f12b5417d1e4b6ca3d0698248b40f7f2e76b6.png",
+            "name": "Breakout"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_dangerzone.d061c311d43c5ce7f4ee3c86f97e9fe716c92403.png",
+            "name": "Danger Zone"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_hydra.efabb0b2335c56133559c61da9d1a469a8ac7ffa.png",
+            "name": "Hydra"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_payback.216eb18dadf71dc70c304ff37c09fca962320245.png",
+            "name": "Payback"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_phoenix.943b5364226ce7e721b01fd466b4de831a21b7ac.png",
+            "name": "Phoenix"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_shatteredweb.775792b6815f852e8400b2eb20cb7f438de63f7b.png",
+            "name": "Shattered Web"
+          },{
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_vanguard.8c3eed29259e3f1e1ea4d6a1fe7bc087b2a09559.png",
+            "name": "Vanguard"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_silver.9a02c54786997c425a2a50e21d9c93d94962686b.png",
+            "name": "Metal Silver"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_goldnova1.349745b7bdd94dbf11666098ea14395956dc56d2.png",
+            "name": "Metal Gold Nova I"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_goldnovamaster.46f29455bd1d7592ba13873d7285bd1d06dd105b.png",
+            "name": "Metal Gold Nova Master"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_masterguardian1.19fd7ed0e22c8b440f6faa18af31aa1739623d3f.png",
+            "name": "Metal Master Guardian I"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_masterguardianelite.c374c6481dbd8bed57c3961c184d19522d698947.png",
+            "name": "Metal Master Guardian Elite"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_dmg.afdcd3757d8a182a3bcfd419f709606c6f5b8188.png",
+            "name": "Metal Distinguished Master Guardian \u2605"
+          },{
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_legendaryeagle.977e5e90068cc8d1350c6303f39b3653baffa238.png",
+            "name": "Metal Legendary Eagle"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_legendaryeaglemaster.80ad119cbe156ee79447b06f93b0946552d334ac.png",
+            "name": "Metal Legendary Eagle Master \u2605"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_supreme.21d8e0def383f11aeacca12d5d13c386f22d0659.png",
+            "name": "Metal Supreme Master First Class"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_globalelite.7b908d750a5817a3c57d1a00372ed084cdd55797.png",
+            "name": "Metal The Global Elite \u2605"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_dmg2.7f00f5e3eb94bbb6f19969a82a191a956831c46a.png",
+            "name": "Metal Distinguished Master Guardian"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_legendaryeagle2.f8491221ad6eaf5663c737c40af63b41f5bdff87.png",
+            "name": "Metal Legendary Eagle"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_legendaryeaglemaster2.a560fc749d75c2ecc4074c4dc4c9f4d2c92b3f60.png",
+            "name": "Metal Legendary Eagle Master"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_silver_demon.d657b7a46b04c5a82fda7e4ac459e9b8d97aa5d4.png",
+            "name": "Metal Silver Demon"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_suprememaster.e424bdf54823facd1af45f50a1f361459d8521fc.png",
+            "name": "Metal Supreme Master"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_alyx.04ddcda0ed27eef7bad36f420066987d290c4284.png",
+            "name": "Alyx"
+          },{
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_headcrab_green.d52f650a8ced6d543d03e5a53c1aa0ea56030b38.png",
+            "name": "Sustenance!"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_vort.607b3d3d2353ff92b729fea1ac3c04f699040fe8.png",
+            "name": "Vortigaunt"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_headcrab_teal.e0e22db3a5f1fe9f1993f0f4aac7dd9fd9be4ee1.png",
+            "name": "Headcrab Glyph"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_lambda_copper.88755474badf49b4e36f09f372b77c6c51908d8b.png",
+            "name": "Copper Lambda"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_hearts.3ccdf7a59f22c9f65c46a9c38106120df77dfc26.png",
+            "name": "Health"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_combine_front.105fe3dfc80c61bfeb8c10f4101a8412a82c30b3.png",
+            "name": "Combine Helmet"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_blackmesa.31a43bc1c7af19fe779c47425f7d45fe73edf35d.png",
+            "name": "Black Mesa"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_cmb.cacec19963bfd81add17cefab6449dc9742efb6f.png",
+            "name": "CMB"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_lambda_orange.7818a3a0a2e145acfac254a5ba39caec703ab321.png",
+            "name": "Lambda"
+          },{
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/casehlalyx/patch_hlalyx_c17.520cd461c9ea14b25e7afb6afd22707496545cc5.png",
+            "name": "City 17"
+          },{
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_globalelite2.57db2efdc91760b6769fad95894a1e921ec3cc19.png",
+            "name": "Metal The Global Elite"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_masterguardian3.966bcd7f3226a46bcecb3365376f42a23e08a452.png",
+            "name": "Metal Master Guardian"
+          },{
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_skillgroups/patch_goldnova4.65238f47a21b36d2a734bf6785ebb45f44148ff8.png",
+            "name": "Metal Gold Nova"
+          },{
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_abandon_hope.ecc9ead8709c546792940bd1cb274cfe37356890.png",
+            "name": "Abandon Hope"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_anchor.d8eb2e7b7cc4d772735e0ba88403f5e796853394.png",
+            "name": "Anchors Aweigh"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_cruising.860becedfea13696e9cc0218f2470b7579bde8d8.png",
+            "name": "Cruising Ray"
+          },{
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_frog_skeleton.09f3c3e9c25e94e59fefa40381a347ed31b3ec9d.png",
+            "name": "Bayonet Frog"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_mad_sushi.e7cfec13fea2a079c1c88817205510f601c3be04.png",
+            "name": "Mad Sushi"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_pink_squid.bce627a5328117b740765163d1fbd830ee370994.png",
+            "name": "Giant Squid"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_piranha.58c1b14b35708ef6fb9baec6283dc7244a1d69a5.png",
+            "name": "El Pirata"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_siren.97d8127effec4b07e1888421b34ea0dab672797f.png",
+            "name": "Death From Below"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_skull_crossswords.3df9147eb7a327c5350d3ff257da3e433945d168.png",
+            "name": "Dead Men"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_sunset_wave.9e019af8eea30a708080e33ea4834c5acdd5c86d.png",
+            "name": "Sunset Wave"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_fish_go.807c596f569f13059497f8cc904f4ebaa3f0d22a.png",
+            "name": "Aquatic Offensive"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_cthulhu.bf6b84b4a9c74af52015ed75076c3eaa68f17d49.png",
+            "name": "Elder God"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case_op11/patch_op11_meal_time.9b8340d039e0cbd49984f2b6d2af2182fddadcf6.png",
+            "name": "Meal Time"
+          },{
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_nip.5b6f1136689121b281640f45ce2d8671c0e7f91e.png",
+            "name": "Ninjas in Pyjamas | Stockholm 2021"
+          },{
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_nip_gold.a98187880e52fa7cdc557b5f29ef3886e853d9c4.png",
+            "name": "Ninjas in Pyjamas (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_furi.9383ed2b2408a188496cb958676bda8fa9c1144a.png",
+            "name": "FURIA | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_furi_gold.9f60358a03c71f93d0540b9e3d07528ef817ce9b.png",
+            "name": "FURIA (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_navi.bdf31dc95ce8d77250421f8458b083766b8ee684.png",
+            "name": "Natus Vincere | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_navi_gold.204c496729eabbe37ece32cd6d3e2806d2ed3e50.png",
+            "name": "Natus Vincere (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_vita.9fdf1a1d331fd57b6c8bd3231ff10490070085ae.png",
+            "name": "Vitality | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_vita_gold.b5432a2ccc22e0babb96f435495a75520cdd49cf.png",
+            "name": "Vitality (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_liq.7b6b1d4634787ee57259465878cfe8726633cfb0.png",
+            "name": "Team Liquid | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_liq_gold.8631a6e9d65cc4a65d42551fe5cc2c7277760b6b.png",
+            "name": "Team Liquid (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_gamb.022108ec27e3fcbf68fafe18cccd96608d1d1f95.png",
+            "name": "Gambit Gaming | Stockholm 2021"
+          },{
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_gamb_gold.6772e51d47bbb45d034ffd5d9f9c6f6a95085e02.png",
+            "name": "Gambit Gaming (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_g2.ba13178f460ac1775036072d539a02867dfee367.png",
+            "name": "G2 Esports | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_g2_gold.b67567277278161d5482a09ceb1c1f34fce13dfc.png",
+            "name": "G2 Esports (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_evl.b2f8e6c47f28fa69ee885232c3eca1ad5890932c.png",
+            "name": "Evil Geniuses | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_evl_gold.4d8ca338f0388b35b66baec4df5c930e065d804f.png",
+            "name": "Evil Geniuses (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_spir.218f872739fdfdf6e8e32cf45733675cf0124b7a.png",
+            "name": "Team Spirit | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_spir_gold.e4ce380e85ae62a51a8ef82088359101a98342e4.png",
+            "name": "Team Spirit (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_astr.4ff3387bfac3196f1ea4b2b175b67a4cd9c0cfdd.png",
+            "name": "Astralis | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_astr_gold.a839e896f9f909f200eb97d982be54c059fe0ca4.png",
+            "name": "Astralis (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_pain.75a03c26d291eafdeea06d0fbeda56e5fffadde0.png",
+            "name": "paiN Gaming | Stockholm 2021"
+          },{
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_pain_gold.cdb3f8cd1a433d8057dbed2ed941cf302b5e0882.png",
+            "name": "paiN Gaming (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_ence.d16609c1cb7636b5b1cf3eb8c71bcd59e710fbce.png",
+            "name": "ENCE | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_ence_gold.8e143da5321b32972e226e37b996c90f920059a8.png",
+            "name": "ENCE (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_big.3cc9e10d78c683444549619da105ca1de7e14792.png",
+            "name": "BIG | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_big_gold.b863d1a7fd7cc53c305aedf54ce6cbd6103a5118.png",
+            "name": "BIG (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_ride.42bd8cb7d724616e5a8991546cf5618e1ae6bedd.png",
+            "name": "Movistar Riders | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_ride_gold.cf34c88b5948f222d528f7aa93ddb1dc9d9e24bf.png",
+            "name": "Movistar Riders (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_hero.f87044399648b02f54caded4dca9f06b5a775d8a.png",
+            "name": "Heroic | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_hero_gold.6e91debd032da3ebadd50ff94a7d959f089663fc.png",
+            "name": "Heroic (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_mouz.ad6c79afa447a0a513795163e572ba2534261cf3.png",
+            "name": "MOUZ | Stockholm 2021"
+          },    {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_mouz_gold.99e80df0ed95e6d0f0b8d9c9796bd7c1a5658d37.png",
+            "name": "MOUZ (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_shrk.7be9a12f33cec6b0f69bd37d740de69cbfc4f665.png",
+            "name": "Sharks Esports | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_shrk_gold.89d04cb948c02b053482402f74759aabfdec0d23.png",
+            "name": "Sharks Esports (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_tyl.ecbb1d3e2a4eb32745f34d78272a5e640d32b232.png",
+            "name": "Tyloo | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_tyl_gold.c881436c9e1bf75ca50028d76922901ad6f45b6e.png",
+            "name": "Tyloo (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_ren.29322e14986570e2f038c301e74d3e00cf2e608d.png",
+            "name": "Renegades | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_ren_gold.189e73a024eb64afe42fc8ab3927ad7d8ed10829.png",
+            "name": "Renegades (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_ent.7811c9edc0368124a1cf5e7d767b69e1191e3d1a.png",
+            "name": "Entropiq | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_ent_gold.abcd1880eb29871b7a21b928f3212a4d3ac12d82.png",
+            "name": "Entropiq (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_god.fc5c12484e5986f316794e04a296894e69aa7aef.png",
+            "name": "GODSENT | Stockholm 2021"
+          },{
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_god_gold.8cc8f0ba7c8ea65b504930ce2d96a6a926dd656d.png",
+            "name": "GODSENT (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_vp.2ef30c5430138df09d56e1585c6f9e3b6e8b31db.png",
+            "name": "Virtus.Pro | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_vp_gold.d9b7d7e48781a853aec9751aefe8b9daf1f69a14.png",
+            "name": "Virtus.Pro (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_cope.2b2b9844947c3db26de36f540fcd710b71e9ad93.png",
+            "name": "Copenhagen Flames | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_cope_gold.92206dfba43fe0187c7bb7e44c9a3489acbdc2bd.png",
+            "name": "Copenhagen Flames (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_faze.507ed844f6dd94d614c2e2732440b277c6f16b77.png",
+            "name": "FaZe Clan | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_faze_gold.d5cb4728025d64e722e22878579b131acabf959a.png",
+            "name": "FaZe Clan (Gold) | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_pgl.bb9ef7343cda8d7261d1ac26d4815a567f53b792.png",
+            "name": "PGL | Stockholm 2021"
+          },
+          {
+            "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/stockh2021/patch_pgl_gold.72c2e7591485eeb0f0be9377fe6df75acf1f6031.png",
+            "name": "PGL (Gold) | Stockholm 2021"
+          }
+    ]
+}

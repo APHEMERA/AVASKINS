@@ -1,0 +1,65 @@
+{
+  "list": [
+    {},
+    {
+      "category": "knife"
+    },
+    {
+      "category": "gloves"
+    },
+    {
+      "category": "pistol"
+    },
+    {
+      "category": "rifle"
+    },
+    {
+      "category": "sniper rifle"
+    },
+    {
+      "category": "smg"
+    },
+    {
+      "category": "shotgun"
+    },
+    {
+      "category": "machinegun"
+    },
+    {
+      "category": "agent"
+    },
+    {
+      "category": "collectible"
+    },
+    {
+      "category": "container"
+    },
+    {
+      "category": "music kit"
+    },
+    {
+      "category": "sticker"
+    },
+    {
+      "category": "patch"
+    },
+    {
+      "category": "pass"
+    },
+    {
+      "category": "graffiti"
+    },
+    {
+      "category": "tag"
+    },
+    {
+      "category": "tool"
+    },
+    {
+      "category": "key"
+    },
+    {
+      "category": "gif"
+    }
+  ]
+}

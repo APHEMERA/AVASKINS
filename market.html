@@ -1,0 +1,847 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="/resources/css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Spartan:wght@200;300;400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <script src="/resources/js/script.js" defer></script>
+    <title>AVASKINS</title>
+  </head>
+  <body id="market">
+    <div class="headerLayout">
+      <div class="header-container">
+          <div class="header-container-left">
+            <a href="index.html"><span>AVASKINS<span></a>
+            <div class="search-wrapper">
+              <label for="SearchInput" class="search-field">
+                <ion-icon name="search"></ion-icon>
+                  <input type="text" id="SearchInput" name="find" class="input-field" placeholder="Search for CS:GO skins" maxlength="40" data-search></imput>
+                  <button class="search-button" type="submit">Search</button>
+              </label>
+              <div class="search-items-container" search-data-item-container>
+                <template search-data-item-template>
+                  <a href="" search-data-item-aLink>
+                    <div class="search-item">
+                      <img src="" alt="" class="search-item-image" search-data-item-image>
+                      <div class="search-item-name" search-data-item-name></div>
+                    </div>
+                  </a>
+                </template>
+              </div>
+            </div>
+          </div>
+          <div class="header-container-right">
+              <a class="login" href="login.html">Login</a>
+              <a class="login" href="register.html">Register</a>
+          </div>
+          <div class="header-account-container">
+            <div class="account-basket">
+              <ion-icon name="basket-outline"></ion-icon>
+              <span class="basket-quantity"></span>
+            </div>
+            <div class="account-favourite">
+              <ion-icon name="heart-circle-outline"></ion-icon>
+            </div>
+            <div class="account-profile">
+              <img src="resources/img/queen.jpg">
+              <ion-icon name="caret-down-outline"></ion-icon>
+            </div>
+          </div>
+          <div class="account-profile-dropdown">
+            <div class="account-profile-dropdown-header">
+                Kitty's kitty
+            </div>
+            <div class="account-dropdown-separate"></div>
+            <div class="account-profile-dropdown-links">
+              <a href="#">
+                <div class="account-profile-dropdown-link">
+                <ion-icon name="bag-outline"></ion-icon>
+                My items
+                </div>
+              </a>
+              <a href="#">
+                <div class="account-profile-dropdown-link">
+                <ion-icon name="heart-circle-outline"></ion-icon>
+                Favourite
+                </div>
+              </a>
+              <div class="account-dropdown-separate"></div>
+              <a href="#">
+                <div class="account-profile-dropdown-link">
+                <ion-icon name="settings-outline"></ion-icon>
+                Settings
+                </div>
+              </a>
+              <a href="#">
+                <div class="account-profile-dropdown-link">
+                <ion-icon name="bag-check-outline"></ion-icon>
+                My purchases
+                </div>
+              </a>
+              <a href="#">
+                <div class="account-profile-dropdown-link">
+                <ion-icon name="card-outline"></ion-icon>
+                Transactions
+                </div>
+              </a>
+              <a href="#">
+                <div class="account-profile-dropdown-link">
+                <ion-icon name="aperture-outline"></ion-icon>
+                Support
+                </div>
+              </a>
+            </div>
+            <div class="account-dropdown-separate"></div>
+            <div class="account-profile-dropdown-footer">
+              <a href="#">
+                <div class="account-profile-dropdown-footer-link">
+                <ion-icon name="log-out-outline"></ion-icon>
+                Log out
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="account-basket-dropdown">
+            <div class="account-basket-dropdown-header">
+              <div class="basket-dropdown-header-left">
+                0 ITEMS IN BASKET
+              </div>
+              <div class="basket-dropdown-header-right">
+                <ion-icon name="close-outline"></ion-icon>
+              </div>
+            </div>
+            <div class="account-basket-dropdown-items">
+              <template data-basket-dropdown-item-template>
+                <a href="" data-basket-dropdown-item-a_Link>
+                <div class="basket-dropdown-item">
+                  <img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdTRH-t26q4SZlvD7PYTQgXtu5Mx2gv3--Y3nj1H6qBFvMWHyIo7Adw9raF6GrlK9lLi-jJO7tJ_JzyNh63F3sX_emUPkgQYMMLL2MDRAbQ/512fx384f" data-basket-dropdown-item-image>
+                  <div class="basket-dropdown-item-info-left">
+                    <span class="basket-dropdown-item-type" data-basket-dropdown-item-type></span>
+                    <span class="basket-dropdown-item-name" data-basket-dropdown-item-name></span>
+                    <span class="basket-dropdown-item-wear" data-basket-dropdown-item-wear></span>
+                  </div>
+                  <div class="basket-dropdown-item-info-right">
+                    <span class="basket-dropdown-item-price" data-basket-dropdown-item-price></span>
+                    <div class="basket-dropdown-item-input">
+                      <button type="button" class="basket-dropdown-item-add"><ion-icon name="add-outline"></ion-icon></button>
+                      <input type="number" value="1" maxlength="3" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);">
+                      <button type="button" class="basket-dropdown-item-remove"><ion-icon name="remove-outline"></ion-icon></button>
+                    </div>
+                    <button type="button" class="basket-dropdown-item-removeBtn">
+                      <ion-icon name="trash-outline"></ion-icon>
+                    </button>
+                  </div>
+                </div>
+              </a>         
+            </template>
+            </div>
+            <div class="account-basket-dropdown-footer">
+              <div class="basket-dropdown-footer-left">
+                Total
+              </div>
+              <div class="basket-dropdown-footer-right">
+                <span class="basket-dropdown-footer-right-total">0.00 USD</span>
+              </div>
+            </div>
+            <div class="account-basket-dropdown-footer-btns">
+              <button type="button" class="basket-dropdown-view-btn">VIEW BASKET</button>
+              <button type="button" class="basket-dropdown-clear">CLEAR BASKET</button>
+            </div>
+          </div>
+          <div class="account-favourite-dropdown">
+            <div class="account-favourite-dropdown-header">
+              <div class="favourite-dropdown-header-left">
+                0 ITEMS IN YOUR FAVOURITE
+              </div>
+              <div class="favourite-dropdown-header-right">
+                <ion-icon name="close-outline"></ion-icon>
+              </div>
+            </div>
+            <div class="account-favourite-dropdown-items">
+              <template data-favourite-dropdown-item-template>
+                <a href="" data-favourite-dropdown-item-a_Link>
+                <div class="favourite-dropdown-item">
+                  <img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdTRH-t26q4SZlvD7PYTQgXtu5Mx2gv3--Y3nj1H6qBFvMWHyIo7Adw9raF6GrlK9lLi-jJO7tJ_JzyNh63F3sX_emUPkgQYMMLL2MDRAbQ/512fx384f" data-favourite-dropdown-item-image>
+                  <div class="favourite-dropdown-item-info-left">
+                    <span class="favourite-dropdown-item-type" data-favourite-dropdown-item-type></span>
+                    <span class="favourite-dropdown-item-name" data-favourite-dropdown-item-name></span>
+                    <span class="favourite-dropdown-item-wear" data-favourite-dropdown-item-wear></span>
+                  </div>
+                  <div class="favourite-dropdown-item-info-right">
+                    <button type="button" class="favourite-dropdown-item-removeBtn">
+                      <ion-icon name="heart-dislike-circle-outline"></ion-icon>
+                    </button>
+                  </div>
+                </div>
+              </a>         
+            </template>
+            </div>
+            <div class="account-favourite-dropdown-footer-btn">
+              <button type="button" class="favourite-dropdown-clear">CLEAR FAVOURITE</button>
+            </div>
+          </div>
+      </div>
+      <div class="header-menu">
+          <div class="header-menu-list">
+            <div class="header-menu-item notOverflown"id="1">knifes</div>
+            <div class="header-menu-item notOverflown"onclick="window.location.href='market.html?type=Gloves'">gloves</div>
+            <div class="header-menu-item notOverflown" id="3">pistols</div>
+            <div class="header-menu-item notOverflown" id="4">rifles</div>
+            <div class="header-menu-item notOverflown" id="5">snipers</div>
+            <div class="header-menu-item notOverflown" id="6">smg's</div>
+            <div class="header-menu-item notOverflown" id="7">heavy</div>
+            <div class="header-menu-item notOverflown" id="8">submachine&nbsp;guns</div> 
+            <div class="header-menu-item notOverflown" onclick="window.location.href='market.html?type=Case'">case</div>
+            <div class="header-menu-item notOverflown" onclick="window.location.href='market.html?type=Collection'">collection</div>
+            <div class="header-menu-item notOverflown" onclick="window.location.href='market.html?type=Souvenir'">souvenir</div>
+            <div class="header-menu-item notOverflown" onclick="window.location.href='market.html?type=Stickers'">stickers</div>
+            <div class="header-menu-item notOverflown" onclick="window.location.href='market.html?type=Patches'">patches</div>
+            <div class="header-menu-item notOverflown" onclick="window.location.href='market.html?type=Music kits'">Music kits</div>
+          </div>
+          <div class="header-overflown-btn">more<ion-icon name="caret-down-outline" class="overflownIcon"></ion-icon></div>
+          <div class="header-overflown-container">
+          </div>
+      </div>
+      <div class="header-menu-subcat">
+        <div class="header-menu-subcat-container" data-header-menu-subcat-container>
+          <template data-header-menu-subcat-template>
+            <a href="" data-header-menu-subcat-item-aLink>
+              <div class="header-menu-subcat-item" name="" data-header-menu-subcat-item>
+                <span data-header-menu-subcat-name class="subcat-item-name"></span>
+                <div class="image-subcat-container">
+                  <img src="" data-header-menu-subcat-image>
+                </div>
+                <div class="subcat-item-bottomTriangle"></div>
+              </div>
+            </a>
+          </template>
+        </div>
+        <div class="header-menu-subcat-all">
+          <a href="market.html" class="header-menu-subcat-all_aLink">
+            <div class="header-menu-subcat-all-content">
+              <span>check all rifles</span>
+              <ion-icon name="chevron-forward-outline"></ion-icon>
+            </div>
+          </a>
+        </div>
+        <button type="button" class="closeSubcatContainerBtn">Close</button>
+        <button type='button' class='buttonWrapper-prev'><ion-icon name="chevron-back-outline"></ion-icon></button>
+        <button type='button' class='buttonWrapper-next'><ion-icon name="chevron-forward-outline"></ion-icon></button>
+      </div>
+      <div class="header-menu-subcat-hovercat">
+        <button type="button" class="hovercat-btnWrapper-prev" data-hovercat-btn><ion-icon name="chevron-back-sharp"></ion-icon></button>
+        <button type="button" class="hovercat-btnWrapper-next" data-hovercat-btn><ion-icon name="chevron-forward-sharp"></ion-icon></button>
+        <div class="header-menu-subcat-hovercat-container">
+          <template data-header-menu-subcat-hovercat-template>
+            <a href="#" data-hovercat-item-aLink>
+              <div class="hovercat-item" data-hovercat-item>
+                <div class="hovercat-item-rarity" data-item-rarity></div>
+                <div class="hovercat-item-image">
+                  <img src="" alt="" data-hovercat-item-image>
+                </div>
+                <div class="hovercat-item-name" data-hovercat-item-name></div>
+                <div class="hovercat-item-extras">
+                  <div class="hovercat-item-extra" data-item-extra-st></div>
+                  <div class="hovercat-item-extra" data-item-extra-sv></div>
+                </div>
+                <div class="hovercat-item-wears" data-hovercat-item-wears>
+                </div>
+              </div>
+            </a>
+          </template>
+        </div>
+      </div>
+    </div>
+    <div class="marketLayout">
+      <div class="filterLayout">
+        <div class="filter-container">
+          <div class="filter-header-name">
+          </div>
+          <div class="filter-content-fixed">
+            <div class="filter-content-container">
+                <div class="filter-content-header">
+                  <div class="filter-content-header-left">
+                    <span>Price</span>
+                  </div>
+                  <div class="filter-content-header-right">
+                    <span>clear all</span>
+                  </div>
+                </div>
+                <div class="price-filter-inputs">
+                  <input type="number" name="firstPrice" placeholder="from :" maxlength="8" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);">
+                  <input type="number" name="secondPrice" placeholder="to :" maxlength="8" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);">
+                </div>
+            </div>
+            <div class="filter-content-container">
+                <div class="filter-content-header">
+                  <div class="filter-content-header-left">
+                    <span>Wears</span>
+                  </div>
+                  <div class="filter-content-header-right">
+                    <span class="filter-btn-wear">select all</span>
+                  </div>
+                </div>
+                <div class="wear-filter-checkbox">
+                  <div class="wear-filter-checkbox-item" title="Factory New">
+                    <input type="checkbox" id='wear1' value="Factory New" autocomplete='off' checked>
+                    <label for="wear1">Factory New</label>
+                    <span data-only-span>only</span>
+                  </div>
+                  <div class="wear-filter-checkbox-item" title="Minimal Wear">
+                    <input type="checkbox" id="wear2" value="Minimal Wear" autocomplete='off' checked>
+                    <label for="wear2">Minimal Wear</label>
+                    <span data-only-span>only</span>
+                  </div>
+                  <div class="wear-filter-checkbox-item" title="Field-Tested">
+                    <input type="checkbox" id="wear3" value="Field-Tested" autocomplete='off' checked>
+                    <label for="wear3">Field-Tested</label>
+                    <span data-only-span>only</span>
+                  </div>
+                  <div class="wear-filter-checkbox-item" title="Well-Worn">
+                    <input type="checkbox" id="wear4" value="Well-Worn" autocomplete='off' checked>
+                    <label for="wear4">Well-Worn</label>
+                    <span data-only-span>only</span>
+                  </div>
+                  <div class="wear-filter-checkbox-item" title="Battle-Scarred">
+                    <input type="checkbox" id="wear5" value="Battle-Scarred" autocomplete='off' checked>
+                    <label for="wear5">Battle-Scarred</label>
+                    <span data-only-span>only</span>
+                  </div>
+                  <div class="wear-filter-checkbox-item" title="Vanilla">
+                    <input type="checkbox" id="wear6" value="vanilla" autocomplete='off' checked>
+                    <label for="wear6">Vanilla</label>
+                    <span data-only-span>only</span>
+                  </div>
+                </div>
+            </div>
+            <div class="filter-content-container">
+                <div class="filter-content-header">
+                  <div class="filter-content-header-left">
+                    <span>Rarity's</span>
+                  </div>
+                  <div class="filter-content-header-right">
+                    <span class="filter-btn-rarity">select all</span>
+                  </div>
+                </div>
+                <div class="rarity-filter-checkbox">
+                  <div class="rarity-filter-checkbox-item" title="Rare Special Items">
+                    <input type="checkbox" id="rarity1" value="Rare Special Items" autocomplete='off' checked>
+                    <label for="rarity1">Rare Special Items</label>
+                    <span data-only-span>only</span>
+                  </div>
+                  <div class="rarity-filter-checkbox-item" title="Covert Skins">
+                    <input type="checkbox" id="rarity2" value="Covert Skins" autocomplete='off' checked>
+                    <label for="rarity2">Covert Skins</label>
+                    <span data-only-span>only</span>
+                  </div>
+                  <div class="rarity-filter-checkbox-item" title="Classified Skins">
+                    <input type="checkbox" id="rarity3" value="Classified Skins" autocomplete='off' checked>
+                    <label for="rarity3">Classified Skins</label>
+                    <span data-only-span>only</span>
+                  </div>
+                  <div class="rarity-filter-checkbox-item" title="Restricted Skins">
+                    <input type="checkbox" id="rarity4" value="Restricted Skins" autocomplete='off' checked>
+                    <label for="rarity4">Restricted Skins</label>
+                    <span data-only-span>only</span>
+                  </div>
+                  <div class="rarity-filter-checkbox-item" title="Mil-Spec Skins">
+                    <input type="checkbox" id="rarity5" value="Mil-Spec Skins" autocomplete='off' checked>
+                    <label for="rarity5">Mil-Spec Skins</label>
+                    <span data-only-span>only</span>
+                  </div>
+                  <div class="rarity-filter-checkbox-item" title="Industrial Grade Skins">
+                    <input type="checkbox" id="rarity6" value="Industrial Grade Skins" autocomplete='off' checked>
+                    <label for="rarity6">Industrial Grade Skins</label>
+                    <span data-only-span>only</span>
+                  </div>
+                  <div class="rarity-filter-checkbox-item" title="Consumer Grade Skins">
+                    <input type="checkbox" id="rarity7" value="Consumer Grade Skins" autocomplete='off' checked>
+                    <label for="rarity7">Consumer Grade Skins</label>
+                    <span data-only-span>only</span>
+                  </div>
+                </div>
+            </div>
+            <div class="filter-content-container">
+              <div class="filter-content-header">
+                <div class="filter-content-header-left">
+                  <span>Extras</span>
+                </div>
+                <div class="filter-content-header-right">
+                  <span class="filter-btn-extra">select all</span>
+                </div>
+              </div>
+              <div class="extra-filter-checkbox">
+                <div class="extra-filter-checkbox-item" title="StatTrak™">
+                  <input type="checkbox" id="extra1" value="StatTrak™" autocomplete='off' checked>
+                  <label for="extra1">StatTrak™</label>
+                  <span data-only-span>only</span>
+                </div>
+                <div class="extra-filter-checkbox-item" title="Souvenir">
+                  <input type="checkbox" id="extra2" value="Souvenir" autocomplete='off' checked>
+                  <label for="extra2">Souvenir</label>
+                  <span data-only-span>only</span>
+                </div>
+              </div>
+          </div>
+          <div class="filter-content-container">
+            <div class="filter-content-header">
+              <div class="filter-content-header-left">
+                <span>Sticker Variants</span>
+              </div>
+            </div>
+            <div class="stickerVariant-filter-checkbox stickerVariant-filter-checkbox-zero">
+              <div class="stickerVariant-filter-checkbox-item stickerVariant-filter-checkbox-item-zero" title="Show All Variants">
+                <input type="checkbox" id="variant0" value="All Variants" autocomplete='off' checked>
+                <label for="variant0">Show All Variants</label>
+              </div>
+            </div>
+            <div class="stickerVariant-filter-checkbox">
+              <div class="stickerVariant-filter-checkbox-item" title="Gold">
+                <input type="checkbox" id="variant1" value="Gold" autocomplete='off'>
+                <label for="variant1">Gold</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerVariant-filter-checkbox-item" title="Foil">
+                <input type="checkbox" id="variant2" value="Foil" autocomplete='off'>
+                <label for="variant2">Foil</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerVariant-filter-checkbox-item" title="Holo">
+                <input type="checkbox" id="variant3" value="Holo" autocomplete='off'>
+                <label for="variant3">Holo</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerVariant-filter-checkbox-item" title="Glossy">
+                <input type="checkbox" id="variant4" value="Glossy" autocomplete='off'>
+                <label for="variant4">Glossy</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerVariant-filter-checkbox-item" title="Paper">
+                <input type="checkbox" id="variant5" value="Paper" autocomplete='off'>
+                <label for="variant5">Paper</label>
+                <span data-only-span>only</span>
+              </div>
+            </div>
+        </div>
+          <div class="filter-content-container">
+            <div class="filter-content-header">
+              <div class="filter-content-header-left">
+                <span>Sticker Capsules</span>
+              </div>
+              <div class="filter-content-header-right">
+                <span class="filter-btn-stickerCapsule">select all</span>
+              </div>
+            </div>
+            <div class="stickerCapsule-filter-checkbox">
+              <div class="stickerCapsule-filter-checkbox-item" title="DreakHack">
+                <input type="checkbox" id="capsule1" value="dreamhack" autocomplete='off' checked>
+                <label for="capsule1">Dreamhack</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Dreamhack Winter 2014">
+                <input type="checkbox" id="capsule2" value="dhw2014" autocomplete='off' checked>
+                <label for="capsule2">DreakHack Winter 2014</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="EMS Katowice 2014">
+                <input type="checkbox" id="capsule3" value="emskatowice2014" autocomplete='off' checked>
+                <label for="capsule3">EMS Katowice 2014</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="ESL Katowice 2015">
+                <input type="checkbox" id="capsule4" value="eslkatowice2015" autocomplete='off' checked>
+                <label for="capsule4">ESL Katowice 2015</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Cologne 2014">
+                <input type="checkbox" id="capsule5" value="cologne2014" autocomplete='off' checked>
+                <label for="capsule5">Cologne 2014</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Cologne 2015">
+                <input type="checkbox" id="capsule6" value="cologne2015" autocomplete='off' checked>
+                <label for="capsule6">Cologne 2015</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Cologne 2016">
+                <input type="checkbox" id="capsule7" value="cologne2016" autocomplete='off' checked>
+                <label for="capsule7">Cologne 2016</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Cluj Napoka 2015">
+                <input type="checkbox" id="capsule8" value="cluj2015" autocomplete='off' checked>
+                <label for="capsule8">Cluj Napoka 2015</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Columbus 2016">
+                <input type="checkbox" id="capsule9" value="columbus2016" autocomplete='off' checked>
+                <label for="capsule9">Columbus 2016</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Krakow 2017">
+                <input type="checkbox" id="capsule10" value="krakow2017" autocomplete='off' checked>
+                <label for="capsule10">Krakow 2017</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Atlanta2017">
+                <input type="checkbox" id="capsule11" value="atlanta2017" autocomplete='off' checked>
+                <label for="capsule11">Atlanta 2017</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Boston 2018">
+                <input type="checkbox" id="capsule12" value="boston2018" autocomplete='off' checked>
+                <label for="capsule12">Boston 2018</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Berlin 2019">
+                <input type="checkbox" id="capsule13" value="berlin2019" autocomplete='off' checked>
+                <label for="capsule13">Berlin 2019</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Katowice 2019">
+                <input type="checkbox" id="capsule14" value="katowice2019" autocomplete='off' checked>
+                <label for="capsule14">Katowice 2019</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="London 2018">
+                <input type="checkbox" id="capsule15" value="london2018" autocomplete='off' checked>
+                <label for="capsule15">London 2018</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Default 2019">
+                <input type="checkbox" id="capsule16" value="default2019" autocomplete='off' checked>
+                <label for="capsule16">Default 2019</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Default 2020">
+                <input type="checkbox" id="capsule17" value="default2020" autocomplete='off' checked>
+                <label for="capsule17">Default 2020</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="RMR 2020">
+                <input type="checkbox" id="capsule18" value="rmr2020" autocomplete='off' checked>
+                <label for="capsule18">RMR 2020</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Stockholm 2021">
+                <input type="checkbox" id="capsule19" value="stockh2021" autocomplete='off' checked>
+                <label for="capsule19">Stockholm 2021</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Spring 2022">
+                <input type="checkbox" id="capsule20" value="spring2022" autocomplete='off' checked>
+                <label for="capsule20">Spring 2022</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Illuminate Capsule">
+                <input type="checkbox" id="capsule21" value="illuminate_capsule" autocomplete='off' checked>
+                <label for="capsule21">Illuminate Capsule</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Illuminate Capsule 01">
+                <input type="checkbox" id="capsule22" value="illuminate_capsule_01" autocomplete='off' checked>
+                <label for="capsule22">Illuminate Capsule 01</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Illuminate Capsule 02">
+                <input type="checkbox" id="capsule23" value="illuminate_capsule_02" autocomplete='off' checked>
+                <label for="capsule23">Illuminate Capsule 02</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Team Roles Capsule">
+                <input type="checkbox" id="capsule24" value="team_roles_capsule" autocomplete='off' checked>
+                <label for="capsule24">Team Roles Capsule</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Community Capsule 2018">
+                <input type="checkbox" id="capsule25" value="comm2018_01" autocomplete='off' checked>
+                <label for="capsule25">Community Capsule 2018</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Community Stickers Series 1">
+                <input type="checkbox" id="capsule26" value="community01" autocomplete='off' checked>
+                <label for="capsule26">Community Stickers Series 1</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Community Stickers Series 2">
+                <input type="checkbox" id="capsule27" value="community02" autocomplete='off' checked>
+                <label for="capsule27">Community Stickers Series 2</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Community Stickers Series 3">
+                <input type="checkbox" id="capsule28" value="community_mix01" autocomplete='off' checked>
+                <label for="capsule28">Community Stickers Series 3</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="ommunity 2021">
+                <input type="checkbox" id="capsule29" value="community2021" autocomplete='off' checked>
+                <label for="capsule29">Community 2021</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Tournament Assets">
+                <input type="checkbox" id="capsule30" value="tournament_assets" autocomplete='off' checked>
+                <label for="capsule30">Tournament Assets</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Sugarface Capsule">
+                <input type="checkbox" id="capsule31" value="sugarface_capsule" autocomplete='off' checked>
+                <label for="capsule31">Sugarface Capsule</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Bestiary Capsule">
+                <input type="checkbox" id="capsule32" value="bestiary_capsule" autocomplete='off' checked>
+                <label for="capsule32">Bestiary Capsule</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Danger Zone">
+                <input type="checkbox" id="capsule33" value="danger_zone" autocomplete='off' checked>
+                <label for="capsule33">Danger Zone</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Sticker Capsule">
+                <input type="checkbox" id="capsule34" value="standard" autocomplete='off' checked>
+                <label for="capsule34">Sticker Capsule</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Sticker Capsule 2">
+                <input type="checkbox" id="capsule35" value="stickers2" autocomplete='off' checked>
+                <label for="capsule35">Sticker Capsule 2</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="SkillGroup Capsule">
+                <input type="checkbox" id="capsule36" value="skillgroup_capsule" autocomplete='off' checked>
+                <label for="capsule36">SkillGroup Capsule</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Enfu Capsule">
+                <input type="checkbox" id="capsule37" value="enfu_capsule" autocomplete='off' checked>
+                <label for="capsule37">Enfu Capsule</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Feral Predators">
+                <input type="checkbox" id="capsule38" value="feral_predators" autocomplete='off' checked>
+                <label for="capsule38">Feral Predators</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Chicken Capsule">
+                <input type="checkbox" id="capsule39" value="chicken_capsule" autocomplete='off' checked>
+                <label for="capsule39">Chicken Capsule</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Shattered Web Stickers">
+                <input type="checkbox" id="capsule40" value="shattered_web" autocomplete='off' checked>
+                <label for="capsule40">Shattered Web Stickers</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="CS 20 Stickers">
+                <input type="checkbox" id="capsule41" value="cs20" autocomplete='off' checked>
+                <label for="capsule41">CS 20 Stickers</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Halo Capsule">
+                <input type="checkbox" id="capsule42" value="halo" autocomplete='off' checked>
+                <label for="capsule42">Halo Capsule</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Half-Life: Alyx">
+                <input type="checkbox" id="capsule43" value="alyx" autocomplete='off' checked>
+                <label for="capsule43">Half-Life: Alyx</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Warhammer">
+                <input type="checkbox" id="capsule44" value="warhammer" autocomplete='off' checked>
+                <label for="capsule44">Warhammer</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Recoil">
+                <input type="checkbox" id="capsule45" value="recoil" autocomplete='off' checked>
+                <label for="capsule45">Recoil</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Broken Fang">
+                <input type="checkbox" id="capsule46" value="broken_fang" autocomplete='off' checked>
+                <label for="capsule46">Broken Fang</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Poorly Drawn">
+                <input type="checkbox" id="capsule47" value="poorly_drawn" autocomplete='off' checked>
+                <label for="capsule47">Poorly Drawn</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Operation Riptide Sticker Collection">
+                <input type="checkbox" id="capsule48" value="op_riptide" autocomplete='off' checked>
+                <label for="capsule48">Operation Riptide Sticker Collection</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Riptide Surf Shop">
+                <input type="checkbox" id="capsule49" value="riptide_surfshop" autocomplete='off' checked>
+                <label for="capsule49">Riptide Surf Shop</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Battlefield 2042">
+                <input type="checkbox" id="capsule50" value="bf2042" autocomplete='off' checked>
+                <label for="capsule50">Battlefield 2042</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Pinups Capsule">
+                <input type="checkbox" id="capsule51" value="pinups_capsule" autocomplete='off' checked>
+                <label for="capsule51">Pinups Capsule</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Slid3 Capsule">
+                <input type="checkbox" id="capsule52" value="slid3_capsule" autocomplete='off' checked>
+                <label for="capsule52">Slid3 Capsule</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Valve Sprays">
+                <input type="checkbox" id="capsule53" value="valve_sprays" autocomplete='off' checked>
+                <label for="capsule53">Valve Sprays</label>
+                <span data-only-span>only</span>
+              </div>
+              <div class="stickerCapsule-filter-checkbox-item" title="Default Sprays">
+                <input type="checkbox" id="capsule54" value="default" autocomplete='off' checked>
+                <label for="capsule54">Default Sprays</label>
+                <span data-only-span>only</span>
+              </div>
+            </div>
+        </div>
+          </div>
+        </div>
+      </div>
+      <div class="catalogLayout">
+          <div class="catalog-sort">
+            <div class="catalog-sort-left">
+              <div class="catalog-sort-search">
+                <label for="catalogSearch" class="catalog-sort-search-label">
+                  <input type="text" id="catalogSearch" class="catalog-sort-search-input n" placeholder="Search for recived items" autocomplete="off" data-catalog-search>
+                  <button type="button" class="catalog-sort-search-button">
+                    <ion-icon name="search-outline"></ion-icon>
+                  </button>
+                </label>
+              </div>
+              <div class="catalog-sort-steps">
+              </div>
+            </div>
+            <div class="catalog-sort-middle">
+            <span class="itemValue">Loading Items...</span>
+            </div>
+            <div class="catalog-sort-right">
+              <button type="button" class="sort-button">Sort by | <span class="sort-span">NOT SORTED</span><ion-icon name="chevron-down-outline" class="sort-icon"></ion-icon></button>
+              <div class="sort-subcat-container">
+                <div class="sort-subcat-item type0">not sorted</div>
+                <div class="sort-subcat-item type1">price : high to low</div>
+                <div class="sort-subcat-item type1">price : low to high</div>
+                <div class="sort-subcat-item type2">weapon name : a - z</div>
+                <div class="sort-subcat-item type2">weapon name : z - a</div>
+                <div class="sort-subcat-item type2">skin name : a - z</div>
+                <div class="sort-subcat-item type2">skin name : z - a</div>
+                <div class="sort-subcat-item type2">date added : newest to oldest</div>
+                <div class="sort-subcat-item type2">date added : oldest to newest</div>
+              </div>
+            </div>  
+          </div>   
+        <div class="catalog-items-container" data-catalog-items-container>
+          <div class="catalog-items-alert">
+            <span>no<br>items<br>found</span>
+          </div>
+          <template data-item-template>
+            <div class="catalog-item-backWall">
+              <div class="catalog-item" data-catalog-item>
+                <div class="catalog-item-top-icons">
+                  <div class="catalog-item-top-basket">
+                    <ion-icon name="basket-outline"></ion-icon>
+                  </div>
+                  <div class="catalog-item-top-favourite">
+                    <ion-icon name="heart-circle-outline"></ion-icon>
+                  </div>
+                  <span class="catalog-item-basket-quantity"></span>
+                </div>
+                  <div class="catalog-item-image">
+                    <img src="" alt="" data-item-image>
+                  </div>
+                  <div class="catalog-item-info">
+                    <div class="catalog-item-rarity" data-item-rarity></div>
+                    <span class="name" data-item-name></span>
+                    <span class="wear" data-item-wear></span>
+                    <a href="" class="case-href" data-item-a_Link>
+                      <img style="width: 30px; vertical-align:middle;" src="" alt="" data-item-caseimage>
+                      <span class="case" data-item-casename></span>
+                      <ion-icon name="chevron-forward-outline"></ion-icon>
+                    </a>
+                    <p class="desc" data-item-desc></p>
+                    <span class="price" data-item-price></span>
+                    <span class="date_added invisible" data-item-date_added></span>
+                  </div>
+              </div>
+              <div class="catalog-item-backWall-footer">
+                <div class="backWall-footer-Btns">
+                  <button type="button" class="backWall-footer-basket-btn">
+                    ADD TO BASKET
+                  </button>
+                  <button type="button" class="backWall-footer-favourite-btn">
+                    <ion-icon name="heart-circle-outline"></ion-icon>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </template>
+        </div>
+      </div>
+    </div>
+    <div class="footerLayout">
+      <div class="footer-container">
+        <div class="footer-payment-methods">
+          <span>Payment Methods : </span>
+          <div class="payment-method">
+            <img src="/resources/img/payment_methods_svg/amex.svg" alt="amex">
+          </div>
+          <div class="payment-method">
+            <img src="/resources/img/payment_methods_svg/applepay.svg" alt="applepay">
+          </div>
+          <div class="payment-method">
+            <img src="/resources/img/payment_methods_svg/blik.svg" alt="blik">
+          </div>
+          <div class="payment-method">
+            <img src="/resources/img/payment_methods_svg/dotpay.svg" alt="dotpay">
+          </div>
+          <div class="payment-method">
+            <img src="/resources/img/payment_methods_svg/maestro.svg" alt="maestro">
+          </div>
+          <div class="payment-method">
+            <img src="/resources/img/payment_methods_svg/mc.svg" alt="mc">
+          </div>
+          <div class="payment-method">
+            <img src="/resources/img/payment_methods_svg/visa.svg" alt="visa">
+          </div>
+        </div>
+        <div class="footer-about-list">
+          <ul>
+            <a href="#"><li class="footer-about-item">about us</li></a>
+            <a href="#"><li class="footer-about-item">affiliate</li></a>
+            <a href="#"><li class="footer-about-item">blog</li></a>
+            <a href="#"><li class="footer-about-item">text</li></a>
+          </ul>
+          <ul>
+            <a href="#"><li class="footer-about-item">faq</li></a>
+            <a href="#"><li class="footer-about-item">support</li></a>
+            <a href="#"><li class="footer-about-item">privacy</li></a>
+            <a href="#"><li class="footer-about-item">terms of service</li></a>
+          </ul>
+        </div>
+        <div class="footer-copyright">
+          <span>© 2022 AVASKINS</span><br>
+          <span>All rights reserved</span>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+  </body>
+</html>

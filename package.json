@@ -1,0 +1,19 @@
+{
+  "name": "avaskins",
+  "version": "1.0.0",
+  "description": "market page",
+  "main": "index.js",
+  "scripts": {
+    "prefix:css": "postcss --use autoprefixer -b 'last 10 versions' resources/css/style.css -o  resources/css/style.prefix.css",
+    "compress:css": "node-sass resources/css/style.prefix.css resources/css/style.css --output-style compressed",
+    "build:css": "npm-run-all prefix:css compress:css"
+  },
+  "author": "Roman Romanchuk",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "node-sass": "^8.0.0",
+    "npm-run-all": "^4.1.5",
+    "postcss-cli": "^10.1.0"
+  }
+}

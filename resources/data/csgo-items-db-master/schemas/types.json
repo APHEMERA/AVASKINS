@@ -1,0 +1,5777 @@
+{
+  "list": [
+    {
+      "category": "3",
+      "name": "Desert Eagle",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH7duJhJKCmePnJ6nUl2Zu5cB1g_zMyoD0mlOx5UJpYjj2d9LAdAI5YlqE-Vm_wuy715Xvv5iby3prs3IjtHrVmEez0xhSLrs4cktNb_c/512fx384f"
+    },
+    {
+      "category": "4",
+      "name": "FAMAS",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf1OD3dzxP7c-JmIWMlvTtDLzemm9u5Mx2gv3--Y3nj1H6-EdsYmr7LILGcwQ8Zl6E-wK2wr2615Lp7ZSfm3pgviIqsSndnRy1gQYMMLK6CbACJQ/512fx384f"
+    },
+    {
+      "category": "15",
+      "name": "Operation Payback Pass"
+    },
+    {
+      "category": "10",
+      "name": "Operation Payback Challenge Coin"
+    },
+    {
+      "category": "10",
+      "name": "Silver Operation Payback Coin"
+    },
+    {
+      "category": "10",
+      "name": "Gold Operation Payback Coin"
+    },
+    {
+      "category": "10",
+      "name": "Museum Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Downtown Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Thunder Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Favela Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Motel Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Seaside Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Library Map Coin"
+    },
+    {
+      "category": "15",
+      "name": "Operation Bravo Pass"
+    },
+    {
+      "category": "10",
+      "name": "Operation Bravo Challenge Coin"
+    },
+    {
+      "category": "10",
+      "name": "Silver Operation Bravo Coin"
+    },
+    {
+      "category": "10",
+      "name": "Gold Operation Bravo Coin"
+    },
+    {
+      "category": "10",
+      "name": "Agency Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Ali Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Cache Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Chinatown Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Gwalior Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Ruins Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Siege Map Coin"
+    },
+    {
+      "category": "15",
+      "name": "Operation Phoenix Pass"
+    },
+    {
+      "category": "10",
+      "name": "Operation Phoenix Challenge Coin"
+    },
+    {
+      "category": "10",
+      "name": "Silver Operation Phoenix Coin"
+    },
+    {
+      "category": "10",
+      "name": "Gold Operation Phoenix Coin"
+    },
+    {
+      "category": "15",
+      "name": "Operation Breakout All Access Pass"
+    },
+    {
+      "category": "10",
+      "name": "Operation Breakout Challenge Coin"
+    },
+    {
+      "category": "10",
+      "name": "Silver Operation Breakout Coin"
+    },
+    {
+      "category": "10",
+      "name": "Gold Operation Breakout Coin"
+    },
+    {
+      "category": "10",
+      "name": "Castle Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Black Gold Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Rush Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Mist Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Insertion Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Overgrown Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Marquis Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Workout Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Backalley Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Season Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Bazaar Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Facade Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Log Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Rails Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Resort Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Zoo Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Santorini Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Coast Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Mikla Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Royal Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Empire Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Tulip Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Cruise Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Subzero Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Biome Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Abbey Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Ruby Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Breach Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Studio Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Jungle Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Anubis Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Chlorine Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Mutiny Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Swamp Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Frostbite Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Engage Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Apollo Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Guard Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Elysion Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Grind Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Mocha Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Calavera Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Pitstop Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Basalt Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Insertion II Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Ravine Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "Extraction Map Coin"
+    },
+    {
+      "category": "10",
+      "name": "County Map Coin"
+    },
+    {
+      "category": "5",
+      "name": "G3SG1",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf1OD3dm5R642Jkoyej8jkJqnBmm5u5Mx2gv3--Y3nj1H6_RY4Z2mmJYaRdAQ7MlHW-lbrxrq5gMPpup3KznEyuyl25iuMyhO0hQYMMLKGBWhDwQ/512fx384f"
+    },
+    {
+      "category": "17",
+      "name": "Name Tag"
+    },
+    {
+      "category": "18",
+      "name": "Storage Unit"
+    },
+    {
+      "category": "19",
+      "name": "eSports Key"
+    },
+    {
+      "category": "13",
+      "name": "Sticker"
+    },
+    {
+      "category": "20",
+      "name": "Gift Package"
+    },
+    {
+      "category": "20",
+      "name": "Pallet of Presents"
+    },
+    {
+      "category": "19",
+      "name": "CS:GO Capsule Key"
+    },
+    {
+      "category": "19",
+      "name": "Winter Offensive Case Key"
+    },
+    {
+      "category": "20",
+      "name": "Audience Participation Parcel"
+    },
+    {
+      "category": "4",
+      "name": "Galil AR",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-IlvnwKrjZl2RC18l4jeHVyoD0mlOx5URsMGindteTIQRqNFHZ_ATtx-jp1JS6vM_PyXYwvSYisH_czUe1gUxSLrs4lUwxnXw/512fx384f"
+    },
+    {
+      "category": "19",
+      "name": "Operation Phoenix Case Key"
+    },
+    {
+      "category": "19",
+      "name": "Community Sticker Capsule 1 Key"
+    },
+    {
+      "category": "19",
+      "name": "Huntsman Case Key"
+    },
+    {
+      "category": "19",
+      "name": "Huntsman Case Key"
+    },
+    {
+      "category": "19",
+      "name": "Community Sticker Capsule 1 Key"
+    },
+    {
+      "category": "19",
+      "name": "Operation Breakout Case Key"
+    },
+    {
+      "category": "19",
+      "name": "Operation Breakout Case Key"
+    },
+    {
+      "category": "19",
+      "name": "Operation Breakout Case Key"
+    },
+    {
+      "category": "19",
+      "name": "Operation Breakout Case Key"
+    },
+    {
+      "category": "12",
+      "name": "Music Kit"
+    },
+    {
+      "category": "15",
+      "name": "Operation Vanguard Access Pass"
+    },
+    {
+      "category": "10",
+      "name": "Operation Vanguard Challenge Coin"
+    },
+    {
+      "category": "10",
+      "name": "Silver Operation Vanguard Coin"
+    },
+    {
+      "category": "10",
+      "name": "Gold Operation Vanguard Coin"
+    },
+    {
+      "category": "19",
+      "name": "Operation Vanguard Case Key"
+    },
+    {
+      "category": "19",
+      "name": "Chroma Case Key"
+    },
+    {
+      "category": "18",
+      "name": "StatTrak\u2122 Swap Tool"
+    },
+    {
+      "category": "19",
+      "name": "Chroma 2 Case Key"
+    },
+    {
+      "category": "15",
+      "name": "Operation Bloodhound Access Pass"
+    },
+    {
+      "category": "10",
+      "name": "Operation Bloodhound Challenge Coin"
+    },
+    {
+      "category": "10",
+      "name": "Silver Operation Bloodhound Coin"
+    },
+    {
+      "category": "10",
+      "name": "Gold Operation Bloodhound Coin"
+    },
+    {
+      "category": "19",
+      "name": "Falchion Case Key"
+    },
+    {
+      "category": "10",
+      "name": "2015 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2015 Service Medal"
+    },
+    {
+      "category": "19",
+      "name": "Shadow Case Key"
+    },
+    {
+      "category": "19",
+      "name": "Revolver Case Key"
+    },
+    {
+      "category": "15",
+      "name": "Operation Wildfire Access Pass"
+    },
+    {
+      "category": "10",
+      "name": "Operation Wildfire Challenge Coin"
+    },
+    {
+      "category": "10",
+      "name": "Silver Operation Wildfire Coin"
+    },
+    {
+      "category": "10",
+      "name": "Gold Operation Wildfire Coin"
+    },
+    {
+      "category": "10",
+      "name": "2016 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2016 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2016 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2016 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2016 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2016 Service Medal"
+    },
+    {
+      "category": "19",
+      "name": "Chroma 3 Case Key"
+    },
+    {
+      "category": "16",
+      "name": "Sealed Graffiti"
+    },
+    {
+      "category": "16",
+      "name": "Graffiti"
+    },
+    {
+      "category": "19",
+      "name": "Gamma Case Key"
+    },
+    {
+      "category": "19",
+      "name": "Gamma 2 Case Key"
+    },
+    {
+      "category": "15",
+      "name": "Operation Hydra Access Pass"
+    },
+    {
+      "category": "10",
+      "name": "Counter-Strike: Global Offensive Game License"
+    },
+    {
+      "category": "19",
+      "name": "Glove Case Key"
+    },
+    {
+      "category": "10",
+      "name": "2017 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2017 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2017 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2017 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2017 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2017 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2017 Service Medal"
+    },
+    {
+      "category": "19",
+      "name": "Spectrum Case Key"
+    },
+    {
+      "category": "19",
+      "name": "Operation Hydra Case Key"
+    },
+    {
+      "category": "19",
+      "name": "Spectrum 2 Case Key"
+    },
+    {
+      "category": "10",
+      "name": "2018 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2018 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2018 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2018 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2018 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2018 Service Medal"
+    },
+    {
+      "category": "19",
+      "name": "Clutch Case Key"
+    },
+    {
+      "category": "19",
+      "name": "Horizon Case Key"
+    },
+    {
+      "category": "19",
+      "name": "Danger Zone Case Key"
+    },
+    {
+      "category": "10",
+      "name": "2019 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2019 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2019 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2019 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2019 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2019 Service Medal"
+    },
+    {
+      "category": "19",
+      "name": "Prisma Case Key"
+    },
+    {
+      "category": "19",
+      "name": "Shattered Web Case Key"
+    },
+    {
+      "category": "19",
+      "name": "CS20 Case Key"
+    },
+    {
+      "category": "19",
+      "name": "Prisma 2 Case Key"
+    },
+    {
+      "category": "19",
+      "name": "Fracture Case Key"
+    },
+    {
+      "category": "19",
+      "name": "Operation Broken Fang Case Key"
+    },
+    {
+      "category": "19",
+      "name": "Snakebite Case Key"
+    },
+    {
+      "category": "19",
+      "name": "Operation Riptide Case Key"
+    },
+    {
+      "category": "19",
+      "name": "Dreams & Nightmares Case Key"
+    },
+    {
+      "category": "8",
+      "name": "M249",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhnwMzFI2kb09KzlpWHlsj3Ia7Cl29U-vp9g-7J4bP5iUazrl1qYz_1JNWcJw48YVvV_VTrwrvs05O5u5mdm3diuyMgsH2PnUPihktLcKUx0suZwC4C/512fx384f"
+    },
+    {
+      "category": "4",
+      "name": "M4A4",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwT09S5g4yCmfDLPr7Vn35c18lwmO7Eu9-s0AXs-RBkZmCmIoCQcQU3aVuCrFfrwee-gsO77s6bn3Bg6SF3t3bD30vgkAZ9U90/512fx384f"
+    },
+    {
+      "category": "6",
+      "name": "MAC-10",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0uL3dClB5Nmyq42KlKakDLnDl31e18h0juDU-LP5iUazrl1sMGDyJoDDIw9vYV7Y-1W7xbq5gMPotczOyXA2vCJ07C3Vn0S310sacKUx0rVvjL9Z/512fx384f"
+    },
+    {
+      "category": "6",
+      "name": "P90",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17PDJZS5J-dC6h7-bzqfLP7LWnn9u5MRjjeyPpYrz2lfhqEZvMm_6JdOXelJrYVqDrlbsxe66hp-56JjKnXowvCgg42GdwUIaw99WQg/512fx384f"
+    },
+    {
+      "category": "3",
+      "name": "Dual Berettas",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0Ob3dDFL-Nmlq4KOgPbmNoTdn2xZ_Pp9i_vG8MKmiQDh-kRsYmmmJoWScwU4N1GDqQC7kuvmhsTp6cmdwHYyuHEitH7YgVXp1r6aPbAJ/512fx384f"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Bossy Burger"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Cat Call"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Chicken Strike"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | CT in Banana"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Don't Worry, I'm Pro"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Fight like a Girl"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Flashbang"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Kawaii Killer CT"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Nelu the Bear"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | One Shot One Kill"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Shooting Star Return"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | War Penguin"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Windy Walking Club"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Blitzkrieg"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Pigeon Master"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Terrorized"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Till Death Do Us Part"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Stay Frosty"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | T On Cat"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Daniel Sadowski, Crimson Assault"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Noisia, Sharpened"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Robert Allaire, Insurgency"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Sean Murray, A*D*8"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Feed Me, High Noon"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Dren, Death's Head Demolition"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Austin Wintory, Desert Fire"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Sasha, LNOE"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Skog, Metal"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Doomed"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Queen Of Pain"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Trick Or Threat"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Trick Or Treat"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Witch"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Zombie Lover"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Blood Boiler"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Dinked"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Drug War Veteran"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Ho Ho Ho"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Massive Pear"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | My Little Friend"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Pandamonium"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Piece Of Cake"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | SAS Chicken"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Thug Life"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | T-Rekt"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Warowl"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Work For Ammo"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Phoenix (Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Bomb Squad (Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Midnight Riders, All I Want for Christmas"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Daniel Sadowski, Total Domination"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Various Artists, Hotline Miami"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Matt Lange, IsoRhythm"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Mateo Messina, For No Mankind"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Damjan Mravunac, The Talos Principle"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Flickshot"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Headshot Guarantee"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Eco Rush"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Just Trolling"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Firestarter (Holo)"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Lucky Cat (Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Robo"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Witchcraft"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Wanna Fight"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Hostage Rescue"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Hamster Hawk"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Headless Chicken"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Proxy, Battlepack"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Ki:Theory, MOLOTOV"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Troels Folmann, Uber Blasto Phone"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Kelly Bailey, Hazardous Environments"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Skog, II-Headshot"
+    },
+    {
+      "category": "11",
+      "name": "Enfu Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Awp Country"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Chi Bomb"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Doru The Fox"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Knife Club"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | CS On The Mind"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Ninja Defuse"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Pros Don't Fake"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Kawaii Killer Terrorist"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Baaa-ckstabber!"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Delicious Tears"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Daniel Sadowski, The 8-Bit Kit"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | AWOLNATION, I Am"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Mord Fustang, Diamonds"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Michael Bross, Invasion!"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Ian Hultquist, Lion's Mouth"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | New Beat Fund, Sponge Fingerz"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Beartooth, Disgusting"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Lennie Moore, Java Havana Funkaloo"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Darude, Moments CS:GO"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Proxy, Battlepack"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Ki:Theory, MOLOTOV"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Troels Folmann, Uber Blasto Phone"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Kelly Bailey, Hazardous Environments"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Skog, II-Headshot"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Daniel Sadowski, The 8-Bit Kit"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | AWOLNATION, I Am"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Mord Fustang, Diamonds"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Michael Bross, Invasion!"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Ian Hultquist, Lion's Mouth"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | New Beat Fund, Sponge Fingerz"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Beartooth, Disgusting"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Lennie Moore, Java Havana Funkaloo"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Darude, Moments CS:GO"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Daniel Sadowski, Crimson Assault"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Noisia, Sharpened"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Robert Allaire, Insurgency"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Sean Murray, A*D*8"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Feed Me, High Noon"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Dren, Death's Head Demolition"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Austin Wintory, Desert Fire"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Sasha, LNOE"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Skog, Metal"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Midnight Riders, All I Want for Christmas"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Daniel Sadowski, Total Domination"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Various Artists, Hotline Miami"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Matt Lange, IsoRhythm"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Mateo Messina, For No Mankind"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Damjan Mravunac, The Talos Principle"
+    },
+    {
+      "category": "11",
+      "name": "Pinups Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Slid3 Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Team Roles Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Collectible Pins Capsule Series 1"
+    },
+    {
+      "category": "11",
+      "name": "Sugarface Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Bestiary Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "CS:GO Graffiti Box"
+    },
+    {
+      "category": "11",
+      "name": "Community Graffiti Box 1"
+    },
+    {
+      "category": "11",
+      "name": "Collectible Pins Capsule Series 2"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Radicals Music Kit Box"
+    },
+    {
+      "category": "11",
+      "name": "Perfect World Sticker Capsule 1"
+    },
+    {
+      "category": "11",
+      "name": "Perfect World Sticker Capsule 2"
+    },
+    {
+      "category": "11",
+      "name": "Perfect World Graffiti Box"
+    },
+    {
+      "category": "11",
+      "name": "Community Capsule 2018"
+    },
+    {
+      "category": "11",
+      "name": "Collectible Pins Capsule Series 3"
+    },
+    {
+      "category": "11",
+      "name": "Skill Groups Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | The Verkkars, EZ4ENCE"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | The Verkkars, EZ4ENCE"
+    },
+    {
+      "category": "11",
+      "name": "Feral Predators Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Chicken Capsule"
+    },
+    {
+      "category": "11",
+      "name": "X-Ray P250 Package"
+    },
+    {
+      "category": "11",
+      "name": "CS20 Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Halo Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Scarlxrd: King, Scar"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Scarlxrd: King, Scar"
+    },
+    {
+      "category": "11",
+      "name": "CS:GO Patch Pack"
+    },
+    {
+      "category": "11",
+      "name": "Half-Life: Alyx Collectible Pins Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Half-Life: Alyx Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Half-Life: Alyx Patch Pack"
+    },
+    {
+      "category": "11",
+      "name": "Masterminds Music Kit Box"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Masterminds Music Kit Box"
+    },
+    {
+      "category": "11",
+      "name": "Warhammer 40,000 Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Amon Tobin, All for Dust"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Amon Tobin, All for Dust"
+    },
+    {
+      "category": "11",
+      "name": "Poorly Drawn Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Neck Deep, The Lowlife Pack"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Neck Deep, The Lowlife Pack"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | Scarlxrd, CHAIN$AW.LXADXUT."
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | Scarlxrd, CHAIN$AW.LXADXUT."
+    },
+    {
+      "category": "11",
+      "name": "Tacticians Music Kit Box"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Tacticians Music Kit Box"
+    },
+    {
+      "category": "11",
+      "name": "2021 Community Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Battlefield 2042 Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | bbno$, u mad!"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | bbno$, u mad!"
+    },
+    {
+      "category": "11",
+      "name": "Music Kit | The Verkkars & n0thing, Flashbang Dance"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Music Kit | The Verkkars & n0thing, Flashbang Dance"
+    },
+    {
+      "category": "11",
+      "name": "The Boardroom Sticker Capsule"
+    },
+    {
+      "category": "6",
+      "name": "MP5-SD",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09Kzm460kfvxOK_QhGVu5Mx2gv3--Y3nj1H6r0RqNm_wLIOQcgdrNFHY_1e8l-2-gMXpucucyXo1vXMk7SrcnxWzhwYMMLIO27LOBQ/512fx384f"
+    },
+    {
+      "category": "6",
+      "name": "UMP-45",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0vL3dzxG6eOjmZC0m_7zO6_ummpD78A_0u-X9oig3lHh-0RpZmn2cY_GIFJvaF-F_VPskOrmjZW77ZzOm3o1vT5iuyiQvhdzkQ/512fx384f"
+    },
+    {
+      "category": "7",
+      "name": "XM1014",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PDdTiVPvYznwL-IluX9J7rCqWdY781lteXA54vwxgTi-xZqYG77coPHd1dsZw6D_1Lvw7q9gZO96p6dz3oxsiAh5inenxGpwUYbnX3d0Ig/512fx384f"
+    },
+    {
+      "category": "6",
+      "name": "PP-Bizon",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0Ob3czRY49KJl5WZhPLLP7LWnn9u5MRjjeyP9t2si1Lh80c4YDzxLNLHdg8_ZQzR_1S3krrsjZG1tZTNzHVqviR27WGdwUJIurA39A/512fx384f"
+    },
+    {
+      "category": "7",
+      "name": "MAG-7",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV09u6lZOYqPrxN7LEm1Rd6dd2j6fFrNn2jlDl_BBoNWD1I9OQJg47MFmBqQW2krzm1MTo6sjAwHthuScq-z-DyJt61HVq/512fx384f"
+    },
+    {
+      "category": "8",
+      "name": "Negev",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf1OD3fzhF6cqJgIiEhcj4OrzZglRd6dd2j6eUpdqliQO18kJvMWj0JYDDI1A5NFDRr1C6xLrpgMO87pnJwXMxuCB0-z-DyJcgKI6K/512fx384f"
+    },
+    {
+      "category": "7",
+      "name": "Sawed-Off",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cih9-8yJh4GckvP7Nb3ummJW4NFOhujT8om73VfnrURtMDv6Jo_Ad1I8aFrSqFO7kunpgZLovMufyHtru3Qr5ymMnwv330--y9PCLQ/512fx384f"
+    },
+    {
+      "category": "3",
+      "name": "Five-SeveN",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjxT09O_mIWPqP_xMq3IqWdQ-sJ0xO_EpdWtjVLj_RFkNmj7LY_AIFU-YgvV-lW_wO2508K0tMvOznsy6HQ8pSGK7Z0hOYU/512fx384f"
+    },
+    {
+      "category": "3",
+      "name": "Tec-9",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09izl4mGluP7IYTdn2xZ_Pp9i_vG8MKk2Qbn_UJqYG_1I9OUJlI6ZwvTrlm4yLrngZLpv5XNmHBgvyQm4H7egVXp1lh8h_GV/512fx384f"
+    },
+    {
+      "category": "19",
+      "name": "Dreams & Nightmares Contest Winner"
+    },
+    {
+      "category": "3",
+      "name": "P2000",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zLZAJSvozmxL-NnuXxDL7dk2ZU5tFwhtbN_Iv9nGu4qgE7NnfycYOSJgJqaA7RqVS_lOjuhsW9tZ_KynVk63En4CmMzRHlgUkeb7c8m7XAHtIREKva/512fx384f"
+    },
+    {
+      "category": "6",
+      "name": "MP7",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRv7OTAeClH48miq4yCkP_gDLfQhGxUppR32L6Tot_22QztqEJlMW3xIYCSIFJqZVyGrAK9lOu90JG86czKmHZ9-n51-XhiT_o/512fx384f"
+    },
+    {
+      "category": "6",
+      "name": "MP9",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAR17P7YKAJL_9C3moS0kfv7IbrdqWdY781lteXA54vwxlDsrUVvYG2iJo-Vd1Q_ZV6ErlO_wem6gJ--vJvBmyYxuSMhs3vUzEGpwUYbWcvqfhg/512fx384f"
+    },
+    {
+      "category": "7",
+      "name": "Nova",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD09SvhIWZlfL1IK_ummJW4NFOhujT8om7jVfi_xZtMjjxJtLGdQ5oMF7Z-AC8w-jm1J-1upvAwXZh6CkjtizbyQv3308wMAGOhw/512fx384f"
+    },
+    {
+      "category": "3",
+      "name": "P250",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszYI2gS092lnYmGmOHLP7LWnn9u5MRjjeyPoo_2jgDi_hVrNzr2IdKXJg84YVzW_wW6weq8hJbv7s7BmnZnuHN3sGGdwUIcgRyEsg/512fx384f"
+    },
+    {
+      "category": "5",
+      "name": "SCAR-20",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PDdTi5B7c6Jl5mZku_LP7LWnn9u5MRjjeyP8ImhjFXl-BZuN273cIbDJgdoNQqBq1now72-gZ_p7pyaziRj63NxtGGdwULm7JPnpA/512fx384f"
+    },
+    {
+      "category": "4",
+      "name": "SG 553",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JhoGHm-7LP7LWnn9u5MRjjeyPrNyhigKy_EM4MG6gLNDAcwY5NVqDrgO7kL290cK87sjPn3RrvHEhs2GdwUKariuTHQ/512fx384f"
+    },
+    {
+      "category": "3",
+      "name": "Glock-18",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0vL3dzxG6eO6nYeDg8j4MqnWkyUHucB1ieqXrIrz2gHmr0ZvZDj3cNKUdlQ-YF6DqAS2w-i8h5Dt6Zib1zI97Ycw1ud8/512fx384f"
+    },
+    {
+      "category": "5",
+      "name": "SSG 08",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3YjVD_teJmImMn-PLP7rDkW4fuJUp27vCp9z00A3i80drY2jwdobEcA8_YgnR_Ffox7y-h5S87Z_MwWwj5Hf8twPTSw/512fx384f"
+    },
+    {
+      "category": "11",
+      "name": "CS:GO Weapon Case"
+    },
+    {
+      "category": "11",
+      "name": "eSports 2013 Case"
+    },
+    {
+      "category": "11",
+      "name": "Operation Bravo Case"
+    },
+    {
+      "category": "11",
+      "name": "CS:GO Weapon Case 2"
+    },
+    {
+      "category": "11",
+      "name": "eSports 2013 Winter Case"
+    },
+    {
+      "category": "11",
+      "name": "DreamHack 2013 Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Winter Offensive Weapon Case"
+    },
+    {
+      "category": "11",
+      "name": "CS:GO Weapon Case 3"
+    },
+    {
+      "category": "11",
+      "name": "Operation Phoenix Weapon Case"
+    },
+    {
+      "category": "11",
+      "name": "Sticker Capsule 2"
+    },
+    {
+      "category": "11",
+      "name": "EMS One 2014 Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "EMS Katowice 2014 Challengers"
+    },
+    {
+      "category": "11",
+      "name": "EMS Katowice 2014 Legends"
+    },
+    {
+      "category": "11",
+      "name": "Community Sticker Capsule 1"
+    },
+    {
+      "category": "11",
+      "name": "Huntsman Weapon Case"
+    },
+    {
+      "category": "11",
+      "name": "Operation Breakout Weapon Case"
+    },
+    {
+      "category": "11",
+      "name": "eSports 2014 Summer Case"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Cologne 2014 Legends"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Cologne 2014 Challengers"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Cologne 2014 Dust II Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Cologne 2014 Inferno Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Cologne 2014 Mirage Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Cologne 2014 Nuke Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Cologne 2014 Cache Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Cologne 2014 Cobblestone Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Cologne 2014 Overpass Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Operation Vanguard Weapon Case"
+    },
+    {
+      "category": "11",
+      "name": "DreamHack 2014 Legends (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "DreamHack 2014 Dust II Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "DreamHack 2014 Inferno Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "DreamHack 2014 Mirage Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "DreamHack 2014 Nuke Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "DreamHack 2014 Cache Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "DreamHack 2014 Cobblestone Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "DreamHack 2014 Overpass Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Fnatic | DreamHack 2014"
+    },
+    {
+      "category": "11",
+      "name": "Cloud9 | DreamHack 2014"
+    },
+    {
+      "category": "11",
+      "name": "Ninjas in Pyjamas | DreamHack 2014"
+    },
+    {
+      "category": "11",
+      "name": "Virtus.Pro | DreamHack 2014"
+    },
+    {
+      "category": "11",
+      "name": "Natus Vincere | DreamHack 2014"
+    },
+    {
+      "category": "11",
+      "name": "Team Dignitas | DreamHack 2014"
+    },
+    {
+      "category": "11",
+      "name": "Bravado Gaming | DreamHack 2014"
+    },
+    {
+      "category": "11",
+      "name": "ESC Gaming | DreamHack 2014"
+    },
+    {
+      "category": "11",
+      "name": "HellRaisers | DreamHack 2014"
+    },
+    {
+      "category": "11",
+      "name": "myXMG | DreamHack 2014"
+    },
+    {
+      "category": "11",
+      "name": "iBUYPOWER | DreamHack 2014"
+    },
+    {
+      "category": "11",
+      "name": "Team LDLC.com | DreamHack 2014"
+    },
+    {
+      "category": "11",
+      "name": "PENTA Sports | DreamHack 2014"
+    },
+    {
+      "category": "11",
+      "name": "Planetkey Dynamics | DreamHack 2014"
+    },
+    {
+      "category": "11",
+      "name": "DreamHack Winter 2014"
+    },
+    {
+      "category": "11",
+      "name": "3DMAX | DreamHack 2014"
+    },
+    {
+      "category": "11",
+      "name": "Copenhagen Wolves | DreamHack 2014"
+    },
+    {
+      "category": "11",
+      "name": "dAT team | DreamHack 2014"
+    },
+    {
+      "category": "11",
+      "name": "London Conspiracy | DreamHack 2014"
+    },
+    {
+      "category": "11",
+      "name": "mousesports | DreamHack 2014"
+    },
+    {
+      "category": "11",
+      "name": "Flipsid3 Tactics | DreamHack 2014"
+    },
+    {
+      "category": "11",
+      "name": "Chroma Case"
+    },
+    {
+      "category": "11",
+      "name": "3DMAX | Katowice 2015"
+    },
+    {
+      "category": "11",
+      "name": "Cloud9 G2A | Katowice 2015"
+    },
+    {
+      "category": "11",
+      "name": "Counter Logic Gaming | Katowice 2015"
+    },
+    {
+      "category": "11",
+      "name": "Flipsid3 Tactics | Katowice 2015"
+    },
+    {
+      "category": "11",
+      "name": "Fnatic | Katowice 2015"
+    },
+    {
+      "category": "11",
+      "name": "HellRaisers | Katowice 2015"
+    },
+    {
+      "category": "11",
+      "name": "Keyd Stars | Katowice 2015"
+    },
+    {
+      "category": "11",
+      "name": "LGB eSports | Katowice 2015"
+    },
+    {
+      "category": "11",
+      "name": "Natus Vincere | Katowice 2015"
+    },
+    {
+      "category": "11",
+      "name": "Ninjas in Pyjamas  | Katowice 2015"
+    },
+    {
+      "category": "11",
+      "name": "PENTA Sports  | Katowice 2015"
+    },
+    {
+      "category": "11",
+      "name": "Team EnVyUs | Katowice 2015"
+    },
+    {
+      "category": "11",
+      "name": "TSM Kinguin | Katowice 2015"
+    },
+    {
+      "category": "11",
+      "name": "Titan | Katowice 2015"
+    },
+    {
+      "category": "11",
+      "name": "Virtus.pro | Katowice 2015"
+    },
+    {
+      "category": "11",
+      "name": "Vox Eminor  | Katowice 2015"
+    },
+    {
+      "category": "11",
+      "name": "ESL One | Katowice 2015"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Katowice 2015 Dust II Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Katowice 2015 Inferno Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Katowice 2015 Mirage Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Katowice 2015 Nuke Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Katowice 2015 Cache Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Katowice 2015 Cobblestone Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Katowice 2015 Overpass Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Katowice 2015 Legends (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Katowice 2015 Challengers (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Swap Tool Two-pack"
+    },
+    {
+      "category": "11",
+      "name": "Chroma 2 Case"
+    },
+    {
+      "category": "11",
+      "name": "Enfu Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Falchion Case"
+    },
+    {
+      "category": "11",
+      "name": "Fnatic | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Virtus.Pro | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "mousesports | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Natus Vincere | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Renegades | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Team Kinguin | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Team eBettle | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Cloud9 G2A | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Ninjas in Pyjamas | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Team EnVyUs | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Luminosity Gaming | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Team SoloMid | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Team Immunity | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Flipsid3 Tactics | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Titan | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Counter Logic Gaming | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "ESL | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Cologne 2015 Legends (Foil)"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Cologne 2015 Challengers (Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Group A (Foil) | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Group B (Foil) | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Group C (Foil) | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Group D (Foil) | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Fnatic | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Luminosity Gaming | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Natus Vincere | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Ninjas in Pyjamas | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Team EnVyUs | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Titan | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Team SoloMid | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Virtus.Pro | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | mousesports | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Renegades | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Team Immunity | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Team eBettle | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Team Kinguin | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Flipsid3 Tactics | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Counter Logic Gaming | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Cloud9 G2A | Cologne 2015"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Cologne 2015 Dust II Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Cologne 2015 Mirage Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Cologne 2015 Inferno Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Cologne 2015 Cobblestone Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Cologne 2015 Overpass Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Cologne 2015 Cache Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "ESL One Cologne 2015 Train Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Shadow Case"
+    },
+    {
+      "category": "11",
+      "name": "Ninjas in Pyjamas | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Team Dignitas | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Counter Logic Gaming | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Vexed Gaming | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Flipsid3 Tactics | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Team Liquid | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "mousesports | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Natus Vincere | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Virtus.Pro | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Cloud9 | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "G2 Esports | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Titan | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Team SoloMid | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Team EnVyUs | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Fnatic | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Luminosity Gaming | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "DreamHack | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "DreamHack Cluj-Napoca 2015 Legends (Foil)"
+    },
+    {
+      "category": "11",
+      "name": "DreamHack Cluj-Napoca 2015 Challengers (Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Challengers (Foil) | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Legends (Foil) | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Ninjas in Pyjamas | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Team Dignitas | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Counter Logic Gaming | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Vexed Gaming | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Flipsid3 Tactics | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Team Liquid | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | mousesports | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Natus Vincere | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Virtus.Pro | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Cloud9 | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | G2 Esports | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Titan | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Team SoloMid | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Team EnVyUs | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Fnatic | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Luminosity Gaming | Cluj-Napoca 2015"
+    },
+    {
+      "category": "11",
+      "name": "DreamHack Cluj-Napoca 2015 Dust II Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "DreamHack Cluj-Napoca 2015 Mirage Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "DreamHack Cluj-Napoca 2015 Inferno Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "DreamHack Cluj-Napoca 2015 Cobblestone Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "DreamHack Cluj-Napoca 2015 Overpass Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "DreamHack Cluj-Napoca 2015 Cache Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "DreamHack Cluj-Napoca 2015 Train Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Pinups Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Slid3 Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Team Roles Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Revolver Case"
+    },
+    {
+      "category": "11",
+      "name": "Operation Wildfire Case"
+    },
+    {
+      "category": "11",
+      "name": "Ninjas in Pyjamas | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Splyce | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Counter Logic Gaming | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Gambit Gaming | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Flipsid3 Tactics | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Team Liquid | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "mousesports | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Natus Vincere | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Virtus.Pro | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Cloud9 | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "G2 Esports | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "FaZe Clan | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Astralis | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Team EnVyUs | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Fnatic | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Luminosity Gaming | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "MLG | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "MLG Columbus 2016 Legends (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "MLG Columbus 2016 Challengers (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Challengers (Foil) | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Legends (Foil) | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Ninjas in Pyjamas | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Splyce | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Counter Logic Gaming | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Gambit Gaming | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Flipsid3 Tactics | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Team Liquid | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | mousesports | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Natus Vincere | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Virtus.Pro | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Cloud9 | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | G2 Esports | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | FaZe Clan | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Astralis | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Team EnVyUs | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Fnatic | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Luminosity Gaming | MLG Columbus 2016"
+    },
+    {
+      "category": "11",
+      "name": "MLG Columbus 2016 Dust II Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "MLG Columbus 2016 Mirage Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "MLG Columbus 2016 Inferno Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "MLG Columbus 2016 Cobblestone Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "MLG Columbus 2016 Overpass Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "MLG Columbus 2016 Cache Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "MLG Columbus 2016 Train Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "MLG Columbus 2016 Nuke Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Chroma 3 Case"
+    },
+    {
+      "category": "11",
+      "name": "Community Graffiti Box 1"
+    },
+    {
+      "category": "11",
+      "name": "Collectible Pins Capsule Series 1"
+    },
+    {
+      "category": "11",
+      "name": "Gamma Case"
+    },
+    {
+      "category": "11",
+      "name": "Ninjas in Pyjamas | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "OpTic Gaming | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Counter Logic Gaming | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Gambit Gaming | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Flipsid3 Tactics | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Team Liquid | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "mousesports | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Natus Vincere | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Virtus.Pro | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "SK Gaming | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "G2 Esports | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "FaZe Clan | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Astralis | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Team EnVyUs | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Fnatic | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Team Dignitas | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "ESL | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Cologne 2016 Legends (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Cologne 2016 Challengers (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Challengers (Foil) | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Legends (Foil) | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Ninjas in Pyjamas | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | OpTic Gaming | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Counter Logic Gaming | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Gambit Gaming | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Flipsid3 Tactics | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Team Liquid | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | mousesports | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Natus Vincere | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Virtus.Pro | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | SK Gaming | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | G2 Esports | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | FaZe Clan | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Astralis | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Team EnVyUs | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Fnatic | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Team Dignitas | Cologne 2016"
+    },
+    {
+      "category": "11",
+      "name": "Cologne 2016 Dust II Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Cologne 2016 Mirage Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Cologne 2016 Cobblestone Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Cologne 2016 Overpass Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Cologne 2016 Cache Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Cologne 2016 Train Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Cologne 2016 Nuke Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Gamma 2 Case"
+    },
+    {
+      "category": "11",
+      "name": "Sugarface Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Bestiary Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Collectible Pins Capsule Series 2"
+    },
+    {
+      "category": "11",
+      "name": "CS:GO Graffiti Box"
+    },
+    {
+      "category": "11",
+      "name": "Perfect World Graffiti Box"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Radicals Box"
+    },
+    {
+      "category": "11",
+      "name": "Glove Case"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Astralis | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Team EnVyUs | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | FaZe Clan | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Flipsid3 Tactics | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Fnatic | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | G2 Esports | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Gambit Gaming | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | GODSENT | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | HellRaisers | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | mousesports | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Natus Vincere | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | North | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | OpTic Gaming | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | SK Gaming | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Team Liquid | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Virtus.Pro | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | ELEAGUE | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Astralis | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Team EnVyUs | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | FaZe Clan | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Flipsid3 Tactics | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Fnatic | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | G2 Esports | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Gambit Gaming | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | GODSENT | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | HellRaisers | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | mousesports | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Natus Vincere | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | North | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | OpTic Gaming | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | SK Gaming | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Team Liquid | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Virtus.Pro | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | ELEAGUE | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Atlanta 2017 Legends (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Atlanta 2017 Challengers (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Legends (Foil) | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Astralis | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Team EnVyUs | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | FaZe Clan | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Flipsid3 Tactics | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Fnatic | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | G2 Esports | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Gambit Gaming | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | GODSENT | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | HellRaisers | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | mousesports | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Natus Vincere | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | North | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | OpTic Gaming | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | SK Gaming | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Team Liquid | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Autograph Capsule | Virtus.Pro | Atlanta 2017"
+    },
+    {
+      "category": "11",
+      "name": "Atlanta 2017 Mega Bundle"
+    },
+    {
+      "category": "11",
+      "name": "Atlanta 2017 Dust II Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Atlanta 2017 Mirage Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Atlanta 2017 Cobblestone Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Atlanta 2017 Overpass Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Atlanta 2017 Cache Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Atlanta 2017 Train Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Atlanta 2017 Nuke Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Spectrum Case"
+    },
+    {
+      "category": "11",
+      "name": "Operation Hydra Case"
+    },
+    {
+      "category": "10",
+      "name": "Operation Hydra Challenge Coin"
+    },
+    {
+      "category": "10",
+      "name": "Silver Operation Hydra Coin"
+    },
+    {
+      "category": "10",
+      "name": "Gold Operation Hydra Coin"
+    },
+    {
+      "category": "10",
+      "name": "Diamond Operation Hydra Coin"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Astralis | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Virtus.Pro | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Fnatic | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | SK Gaming | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Natus Vincere | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Gambit | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | North | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | FaZe Clan | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | mousesports | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | G2 Esports | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | BIG | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Cloud9 | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | PENTA Sports | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Flipsid3 Tactics | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Immortals | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Vega Squadron | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | PGL | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Astralis | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Virtus.Pro | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Fnatic | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | SK Gaming | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Natus Vincere | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Gambit | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | North | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | FaZe Clan | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | mousesports | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | G2 Esports | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | BIG | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Cloud9 | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | PENTA Sports | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Flipsid3 Tactics | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Immortals | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Vega Squadron | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | PGL | Krakow 2017"
+    },
+    {
+      "category": "11",
+      "name": "Krakow 2017 Legends (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Krakow 2017 Challengers (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Krakow 2017 Challengers Autograph Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Krakow 2017 Legends Autograph Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Krakow 2017 Mega Bundle"
+    },
+    {
+      "category": "11",
+      "name": "Krakow 2017 Inferno Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Krakow 2017 Mirage Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Krakow 2017 Cobblestone Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Krakow 2017 Overpass Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Krakow 2017 Cache Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Krakow 2017 Train Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Krakow 2017 Nuke Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Spectrum 2 Case"
+    },
+    {
+      "category": "11",
+      "name": "Perfect World Sticker Capsule 1"
+    },
+    {
+      "category": "11",
+      "name": "Perfect World Sticker Capsule 2"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Gambit Esports | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | 100 Thieves | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Astralis | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Virtus.Pro | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Fnatic | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | SK Gaming | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | BIG | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | North | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | G2 Esports | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Cloud9 | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Flipsid3 Tactics | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Natus Vincere | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | mousesports | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Sprout Esports | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | FaZe Clan | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Vega Squadron | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Space Soldiers | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Team Liquid | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Avangar | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Renegades | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Team EnVyUs | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Misfits Gaming | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Quantum Bellator Fire | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Tyloo | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | ELEAGUE | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Gambit Esports | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | 100 Thieves | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Astralis | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Virtus.Pro | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Fnatic | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | SK Gaming | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | BIG | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | North | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | G2 Esports | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Cloud9 | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Flipsid3 Tactics | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Natus Vincere | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | mousesports | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Sprout Esports | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | FaZe Clan | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Vega Squadron | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Space Soldiers | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Team Liquid | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Avangar | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Renegades | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Team EnVyUs | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Misfits Gaming | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Quantum Bellator Fire | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Tyloo | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | ELEAGUE | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Boston 2018 Legends (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Boston 2018 Returning Challengers (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Boston 2018 Minor Challengers (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Boston 2018 Legends Autograph Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Boston 2018 Returning Challengers Autograph Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Boston 2018 Minor Challengers Autograph Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Boston 2018 Mega Bundle"
+    },
+    {
+      "category": "11",
+      "name": "Boston 2018 Inferno Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Boston 2018 Mirage Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Boston 2018 Cobblestone Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Boston 2018 Overpass Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Boston 2018 Cache Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Boston 2018 Train Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Boston 2018 Nuke Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Community Capsule 2018"
+    },
+    {
+      "category": "11",
+      "name": "Clutch Case"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Flash Gaming | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Flash Gaming | Boston 2018"
+    },
+    {
+      "category": "11",
+      "name": "Boston 2018 Minor Challengers with Flash Gaming (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Boston 2018 Minor Challengers with Flash Gaming Autograph Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Boston 2018 Mega Bundle"
+    },
+    {
+      "category": "11",
+      "name": "Chicken Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Boston 2018 Attending Legends (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Boston 2018 Attending Legends Autograph Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Boston 2018 Mega Bundle"
+    },
+    {
+      "category": "11",
+      "name": "Collectible Pins Capsule Series 3"
+    },
+    {
+      "category": "11",
+      "name": "Horizon Case"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Cloud9 | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | FaZe Clan | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Natus Vincere | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | MIBR | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | mousesports | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Winstrike Team | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | G2 Esports | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Fnatic | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Gambit Esports | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Vega Squadron | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Space Soldiers | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | BIG | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Astralis | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Team Liquid | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | North | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Virtus.Pro | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Ninjas in Pyjamas | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | compLexity Gaming | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | HellRaisers | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Renegades | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | OpTic Gaming | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Rogue | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Team Spirit | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Tyloo | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | FACEIT | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Cloud9 | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | FaZe Clan | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Natus Vincere | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | MIBR | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | mousesports | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Winstrike Team | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | G2 Esports | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Fnatic | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Gambit Esports | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Vega Squadron | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Space Soldiers | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | BIG | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Astralis | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Team Liquid | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | North | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Virtus.Pro | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Ninjas in Pyjamas | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | compLexity Gaming | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | HellRaisers | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Renegades | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | OpTic Gaming | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Rogue | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Team Spirit | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | Tyloo | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "Sealed Graffiti | FACEIT | London 2018"
+    },
+    {
+      "category": "11",
+      "name": "London 2018 Legends (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "London 2018 Returning Challengers (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "London 2018 Minor Challengers (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "London 2018 Legends Autograph Capsule"
+    },
+    {
+      "category": "11",
+      "name": "London 2018 Returning Challengers Autograph Capsule"
+    },
+    {
+      "category": "11",
+      "name": "London 2018 Minor Challengers Autograph Capsule"
+    },
+    {
+      "category": "11",
+      "name": "London 2018 Mega Bundle"
+    },
+    {
+      "category": "11",
+      "name": "London 2018 Inferno Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "London 2018 Mirage Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "London 2018 Dust II Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "London 2018 Overpass Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "London 2018 Cache Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "London 2018 Train Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "London 2018 Nuke Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Skill Groups Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Danger Zone Case"
+    },
+    {
+      "category": "15",
+      "name": "Operation Shattered Web Premium Pass"
+    },
+    {
+      "category": "10",
+      "name": "Operation Shattered Web Challenge Coin"
+    },
+    {
+      "category": "10",
+      "name": "Silver Operation Shattered Web Coin"
+    },
+    {
+      "category": "10",
+      "name": "Gold Operation Shattered Web Coin"
+    },
+    {
+      "category": "10",
+      "name": "Diamond Operation Shattered Web Coin"
+    },
+    {
+      "category": "15",
+      "name": "Katowice 2019 Viewer Pass"
+    },
+    {
+      "category": "10",
+      "name": "Katowice 2019 Coin"
+    },
+    {
+      "category": "10",
+      "name": "Katowice 2019 Silver Coin"
+    },
+    {
+      "category": "10",
+      "name": "Katowice 2019 Gold Coin"
+    },
+    {
+      "category": "10",
+      "name": "Katowice 2019 Diamond Coin"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Astralis | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Avangar | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | BIG | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Cloud9 | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | compLexity Gaming | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | ENCE | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | FaZe Clan | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Fnatic | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | FURIA | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | G2 Esports | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Grayhound Gaming | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | HellRaisers | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | MIBR | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Natus Vincere | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Ninjas in Pyjamas | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | NRG | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Renegades | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Team Liquid | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Team Spirit | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Tyloo | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Vega Squadron | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | ViCi Gaming | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Vitality | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Winstrike Team | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | IEM | Katowice 2019"
+    },
+    {
+      "category": "11",
+      "name": "Katowice 2019 Legends (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Katowice 2019 Returning Challengers (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Katowice 2019 Minor Challengers (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Katowice 2019 Legends Autograph Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Katowice 2019 Returning Challengers Autograph Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Katowice 2019 Minor Challengers Autograph Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Katowice 2019 Inferno Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Katowice 2019 Mirage Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Katowice 2019 Dust II Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Katowice 2019 Overpass Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Katowice 2019 Cache Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Katowice 2019 Train Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Katowice 2019 Nuke Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Halo Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Prisma Case"
+    },
+    {
+      "category": "11",
+      "name": "Feral Predators Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Shattered Web Sticker Collection"
+    },
+    {
+      "category": "11",
+      "name": "The Overpass Collection"
+    },
+    {
+      "category": "11",
+      "name": "The Cobblestone Collection"
+    },
+    {
+      "category": "11",
+      "name": "The Cache Collection"
+    },
+    {
+      "category": "11",
+      "name": "The Gods and Monsters Collection"
+    },
+    {
+      "category": "11",
+      "name": "The Chop Shop Collection"
+    },
+    {
+      "category": "11",
+      "name": "The Rising Sun Collection"
+    },
+    {
+      "category": "15",
+      "name": "Bonus Rank XP"
+    },
+    {
+      "category": "11",
+      "name": "The Canals Collection"
+    },
+    {
+      "category": "14",
+      "name": "Patch"
+    },
+    {
+      "category": "11",
+      "name": "CS:GO Patch Pack"
+    },
+    {
+      "category": "11",
+      "name": "The Norse Collection"
+    },
+    {
+      "category": "11",
+      "name": "The St. Marc Collection"
+    },
+    {
+      "category": "9",
+      "name": "Bloody Darryl The Strapped | The Professionals"
+    },
+    {
+      "category": "11",
+      "name": "Metal Skill Group Patch Collection"
+    },
+    {
+      "category": "11",
+      "name": "Half-Life: Alyx Patch Pack"
+    },
+    {
+      "category": "11",
+      "name": "Warhammer 40,000 Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "CS:GO Graffiti #3 Collection"
+    },
+    {
+      "category": "11",
+      "name": "Trolling Graffiti Collection"
+    },
+    {
+      "category": "9",
+      "name": "'Blueberries' Buckshot | NSWC SEAL"
+    },
+    {
+      "category": "11",
+      "name": "Shattered Web Case"
+    },
+    {
+      "category": "11",
+      "name": "CS:GO Graffiti #2 Collection"
+    },
+    {
+      "category": "15",
+      "name": "Berlin 2019 Viewer Pass"
+    },
+    {
+      "category": "10",
+      "name": "Berlin 2019 Coin"
+    },
+    {
+      "category": "10",
+      "name": "Berlin 2019 Silver Coin"
+    },
+    {
+      "category": "10",
+      "name": "Berlin 2019 Gold Coin"
+    },
+    {
+      "category": "10",
+      "name": "Berlin 2019 Diamond Coin"
+    },
+    {
+      "category": "15",
+      "name": "Berlin 2019 Viewer Pass + 3 Souvenir Tokens"
+    },
+    {
+      "category": "15",
+      "name": "Berlin 2019 Souvenir Token"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Astralis | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | ENCE | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | MIBR | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Natus Vincere | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Ninjas in Pyjamas | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | FaZe Clan | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Team Liquid | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Renegades | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | compLexity Gaming | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | HellRaisers | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Avangar | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | G2 Esports | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Vitality | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Grayhound Gaming | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | mousesports | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | forZe eSports | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | NRG | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Tyloo | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | FURIA | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | CR4ZY | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | Syman Gaming | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | North | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | DreamEaters | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | INTZ E-SPORTS CLUB | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Sticker | StarLadder | Berlin 2019"
+    },
+    {
+      "category": "11",
+      "name": "Berlin 2019 Legends (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Berlin 2019 Returning Challengers (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Berlin 2019 Minor Challengers (Holo/Foil)"
+    },
+    {
+      "category": "11",
+      "name": "Berlin 2019 Legends Autograph Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Berlin 2019 Returning Challengers Autograph Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Berlin 2019 Minor Challengers Autograph Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Berlin 2019 Inferno Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Berlin 2019 Mirage Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Berlin 2019 Dust II Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Berlin 2019 Overpass Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Berlin 2019 Train Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Berlin 2019 Nuke Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Berlin 2019 Vertigo Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Shattered Web Sticker Collection"
+    },
+    {
+      "category": "11",
+      "name": "X-Ray P250 Package"
+    },
+    {
+      "category": "11",
+      "name": "CS20 Case"
+    },
+    {
+      "category": "11",
+      "name": "CS20 Sticker Capsule"
+    },
+    {
+      "category": "15",
+      "name": "1 Star for Operation Shattered Web"
+    },
+    {
+      "category": "15",
+      "name": "10 Stars for Operation Shattered Web"
+    },
+    {
+      "category": "15",
+      "name": "100 Stars for Operation Shattered Web"
+    },
+    {
+      "category": "10",
+      "name": "2020 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2020 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2020 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2020 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2020 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2020 Service Medal"
+    },
+    {
+      "category": "9",
+      "name": "'Two Times' McCoy | TACP Cavalry"
+    },
+    {
+      "category": "10",
+      "name": "Civil Protection Pin"
+    },
+    {
+      "category": "10",
+      "name": "Sustenance! Pin"
+    },
+    {
+      "category": "10",
+      "name": "Vortigaunt Pin"
+    },
+    {
+      "category": "10",
+      "name": "Headcrab Glyph Pin"
+    },
+    {
+      "category": "10",
+      "name": "Health Pin"
+    },
+    {
+      "category": "10",
+      "name": "Lambda Pin"
+    },
+    {
+      "category": "10",
+      "name": "Copper Lambda Pin"
+    },
+    {
+      "category": "10",
+      "name": "CMB Pin"
+    },
+    {
+      "category": "10",
+      "name": "Black Mesa Pin"
+    },
+    {
+      "category": "10",
+      "name": "Combine Helmet Pin"
+    },
+    {
+      "category": "10",
+      "name": "City 17 Pin"
+    },
+    {
+      "category": "11",
+      "name": "Half-Life: Alyx Collectible Pins Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Half-Life: Alyx Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Prisma 2 Case"
+    },
+    {
+      "category": "11",
+      "name": "Masterminds Music Kit Box"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Masterminds Music Kit Box"
+    },
+    {
+      "category": "11",
+      "name": "Fracture Case"
+    },
+    {
+      "category": "15",
+      "name": "Operation Broken Fang Premium Pass"
+    },
+    {
+      "category": "10",
+      "name": "Operation Broken Fang Challenge Coin"
+    },
+    {
+      "category": "10",
+      "name": "Silver Operation Broken Fang Coin"
+    },
+    {
+      "category": "10",
+      "name": "Gold Operation Broken Fang Coin"
+    },
+    {
+      "category": "10",
+      "name": "Diamond Operation Broken Fang Coin"
+    },
+    {
+      "category": "15",
+      "name": "1 Star for Operation Broken Fang"
+    },
+    {
+      "category": "15",
+      "name": "10 Stars for Operation Broken Fang"
+    },
+    {
+      "category": "15",
+      "name": "100 Stars for Operation Broken Fang"
+    },
+    {
+      "category": "11",
+      "name": "Distinguished Agents"
+    },
+    {
+      "category": "11",
+      "name": "Exceptional Agents"
+    },
+    {
+      "category": "11",
+      "name": "Superior Agents"
+    },
+    {
+      "category": "11",
+      "name": "Master Agent - Commander Mae"
+    },
+    {
+      "category": "9",
+      "name": "Cmdr. Mae 'Dead Cold' Jamison | SWAT"
+    },
+    {
+      "category": "9",
+      "name": "1st Lieutenant Farlow | SWAT"
+    },
+    {
+      "category": "9",
+      "name": "John 'Van Healen' Kask | SWAT"
+    },
+    {
+      "category": "9",
+      "name": "Bio-Haz Specialist | SWAT"
+    },
+    {
+      "category": "9",
+      "name": "Sergeant Bombson | SWAT"
+    },
+    {
+      "category": "9",
+      "name": "Chem-Haz Specialist | SWAT"
+    },
+    {
+      "category": "11",
+      "name": "Operation Broken Fang Case"
+    },
+    {
+      "category": "9",
+      "name": "Rezan the Redshirt | Sabre"
+    },
+    {
+      "category": "11",
+      "name": "Recoil Sticker Collection"
+    },
+    {
+      "category": "11",
+      "name": "The Control Collection"
+    },
+    {
+      "category": "11",
+      "name": "The Havoc Collection"
+    },
+    {
+      "category": "11",
+      "name": "The Ancient Collection"
+    },
+    {
+      "category": "11",
+      "name": "Recoil Sticker Collection"
+    },
+    {
+      "category": "11",
+      "name": "Master Agents - Sir Bloody Darryl"
+    },
+    {
+      "category": "2",
+      "name": "Broken Fang Gloves"
+    },
+    {
+      "category": "9",
+      "name": "Sir Bloody Miami Darryl | The Professionals"
+    },
+    {
+      "category": "9",
+      "name": "Safecracker Voltzmann | The Professionals"
+    },
+    {
+      "category": "9",
+      "name": "Little Kev | The Professionals"
+    },
+    {
+      "category": "11",
+      "name": "Broken Fang Sticker Collection"
+    },
+    {
+      "category": "9",
+      "name": "Getaway Sally | The Professionals"
+    },
+    {
+      "category": "11",
+      "name": "Broken Fang Sticker Collection"
+    },
+    {
+      "category": "9",
+      "name": "Number K | The Professionals"
+    },
+    {
+      "category": "9",
+      "name": "Sir Bloody Silent Darryl | The Professionals"
+    },
+    {
+      "category": "9",
+      "name": "Sir Bloody Skullhead Darryl | The Professionals"
+    },
+    {
+      "category": "9",
+      "name": "Sir Bloody Darryl Royale | The Professionals"
+    },
+    {
+      "category": "9",
+      "name": "Sir Bloody Loudmouth Darryl | The Professionals"
+    },
+    {
+      "category": "10",
+      "name": "2021 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2021 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2021 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2021 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2021 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2021 Service Medal"
+    },
+    {
+      "category": "11",
+      "name": "2020 RMR Legends"
+    },
+    {
+      "category": "11",
+      "name": "2020 RMR Challengers"
+    },
+    {
+      "category": "11",
+      "name": "2020 RMR Contenders"
+    },
+    {
+      "category": "11",
+      "name": "Poorly Drawn Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Snakebite Case"
+    },
+    {
+      "category": "15",
+      "name": "CS:GO Subscription Service"
+    },
+    {
+      "category": "9",
+      "name": "Sous-Lieutenant Medic | Gendarmerie Nationale"
+    },
+    {
+      "category": "9",
+      "name": "Chem-Haz Capitaine | Gendarmerie Nationale"
+    },
+    {
+      "category": "9",
+      "name": "Chef d'Escadron Rouchard | Gendarmerie Nationale"
+    },
+    {
+      "category": "9",
+      "name": "Aspirant | Gendarmerie Nationale"
+    },
+    {
+      "category": "9",
+      "name": "Officer Jacques Beltram | Gendarmerie Nationale"
+    },
+    {
+      "category": "11",
+      "name": "Tacticians Music Kit Box"
+    },
+    {
+      "category": "11",
+      "name": "StatTrak\u2122 Tacticians Music Kit Box"
+    },
+    {
+      "category": "9",
+      "name": "Lieutenant 'Tree Hugger' Farlow | SWAT"
+    },
+    {
+      "category": "9",
+      "name": "Cmdr. Davida 'Goggles' Fernandez | SEAL Frogman"
+    },
+    {
+      "category": "15",
+      "name": "Operation Riptide Premium Pass"
+    },
+    {
+      "category": "10",
+      "name": "Operation Riptide Challenge Coin"
+    },
+    {
+      "category": "10",
+      "name": "Silver Operation Riptide Coin"
+    },
+    {
+      "category": "10",
+      "name": "Gold Operation Riptide Coin"
+    },
+    {
+      "category": "10",
+      "name": "Diamond Operation Riptide Coin"
+    },
+    {
+      "category": "15",
+      "name": "1 Star for Operation Riptide"
+    },
+    {
+      "category": "15",
+      "name": "10 Stars for Operation Riptide"
+    },
+    {
+      "category": "15",
+      "name": "100 Stars for Operation Riptide"
+    },
+    {
+      "category": "11",
+      "name": "Distinguished Agents"
+    },
+    {
+      "category": "11",
+      "name": "Exceptional Agents"
+    },
+    {
+      "category": "11",
+      "name": "Superior Agents"
+    },
+    {
+      "category": "11",
+      "name": "CT Master Agents"
+    },
+    {
+      "category": "11",
+      "name": "T Master Agents"
+    },
+    {
+      "category": "9",
+      "name": "Cmdr. Frank 'Wet Sox' Baroud | SEAL Frogman"
+    },
+    {
+      "category": "9",
+      "name": "Lieutenant Rex Krikey | SEAL Frogman"
+    },
+    {
+      "category": "9",
+      "name": "Elite Trapper Solman | Guerrilla Warfare"
+    },
+    {
+      "category": "9",
+      "name": "Crasswater The Forgotten | Guerrilla Warfare"
+    },
+    {
+      "category": "9",
+      "name": "Arno The Overgrown | Guerrilla Warfare"
+    },
+    {
+      "category": "9",
+      "name": "Col. Mangos Dabisi | Guerrilla Warfare"
+    },
+    {
+      "category": "9",
+      "name": "Vypa Sista of the Revolution | Guerrilla Warfare"
+    },
+    {
+      "category": "9",
+      "name": "Trapper Aggressor | Guerrilla Warfare"
+    },
+    {
+      "category": "11",
+      "name": "Riptide Surf Shop Sticker Collection"
+    },
+    {
+      "category": "9",
+      "name": "'Medium Rare' Crasswater | Guerrilla Warfare"
+    },
+    {
+      "category": "9",
+      "name": "Trapper | Guerrilla Warfare"
+    },
+    {
+      "category": "11",
+      "name": "2021 Community Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Operation Riptide Sticker Collection"
+    },
+    {
+      "category": "11",
+      "name": "The Boardroom Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "The 2021 Train Collection"
+    },
+    {
+      "category": "11",
+      "name": "The 2021 Train Collection"
+    },
+    {
+      "category": "11",
+      "name": "The 2021 Train Collection"
+    },
+    {
+      "category": "11",
+      "name": "The 2021 Train Collection"
+    },
+    {
+      "category": "11",
+      "name": "Battlefield 2042 Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Operation Riptide Case"
+    },
+    {
+      "category": "11",
+      "name": "Riptide Surf Shop Sticker Collection"
+    },
+    {
+      "category": "11",
+      "name": "The 2021 Vertigo Collection"
+    },
+    {
+      "category": "11",
+      "name": "The 2021 Dust 2 Collection"
+    },
+    {
+      "category": "11",
+      "name": "The 2021 Mirage Collection"
+    },
+    {
+      "category": "11",
+      "name": "Operation Riptide Patch Collection"
+    },
+    {
+      "category": "15",
+      "name": "Stockholm 2021 Viewer Pass"
+    },
+    {
+      "category": "10",
+      "name": "Stockholm 2021 Coin"
+    },
+    {
+      "category": "10",
+      "name": "Stockholm 2021 Silver Coin"
+    },
+    {
+      "category": "10",
+      "name": "Stockholm 2021 Gold Coin"
+    },
+    {
+      "category": "10",
+      "name": "Stockholm 2021 Diamond Coin"
+    },
+    {
+      "category": "15",
+      "name": "Stockholm 2021 Viewer Pass + 3 Souvenir Tokens"
+    },
+    {
+      "category": "15",
+      "name": "Stockholm 2021 Souvenir Token"
+    },
+    {
+      "category": "11",
+      "name": "Stockholm 2021 Legends Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Stockholm 2021 Challengers Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Stockholm 2021 Contenders Sticker Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Stockholm 2021 Legends Patch Pack"
+    },
+    {
+      "category": "11",
+      "name": "Stockholm 2021 Challengers Patch Pack"
+    },
+    {
+      "category": "11",
+      "name": "Stockholm 2021 Contenders Patch Pack"
+    },
+    {
+      "category": "11",
+      "name": "Stockholm 2021 Inferno Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Stockholm 2021 Mirage Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Stockholm 2021 Dust II Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Stockholm 2021 Overpass Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Stockholm 2021 Ancient Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Stockholm 2021 Nuke Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Stockholm 2021 Vertigo Souvenir Package"
+    },
+    {
+      "category": "11",
+      "name": "Stockholm 2021 Champions Autograph Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Stockholm 2021 Finalists Autograph Capsule"
+    },
+    {
+      "category": "11",
+      "name": "Dreams & Nightmares Case"
+    },
+    {
+      "category": "10",
+      "name": "2022 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2022 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2022 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2022 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2022 Service Medal"
+    },
+    {
+      "category": "10",
+      "name": "2022 Service Medal"
+    },
+    {
+      "category": "1",
+      "name": "Bayonet",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJfAJQ-d6vq42KhfX4NrLLk29u5Mx2gv3--Y3nj1H6qBFuN2DxcNCSJwJvZwuF_FG7xO271JC0v8uYziA3vHUqs37UlkTlgAYMMLLwoSTV-g/512fx384f"
+    },
+    {
+      "category": "2",
+      "name": "Bloodhound Gloves"
+    },
+    {
+      "category": "2",
+      "name": "Default T Gloves"
+    },
+    {
+      "category": "2",
+      "name": "Default CT Gloves"
+    },
+    {
+      "category": "1",
+      "name": "Classic Knife",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ODbTjxP08azlpKKqPv9NLPFqWdQ-sJ0xOjEp9rz0QbkrUNuYT_xcNWdJgE-YQqCq1PqlLvr0JG8vJ7MzHAyvnI8pSGKBXL4jec/512fx384f"
+    },
+    {
+      "category": "2",
+      "name": "Sport Gloves"
+    },
+    {
+      "category": "2",
+      "name": "Driver Gloves"
+    },
+    {
+      "category": "2",
+      "name": "Hand Wraps"
+    },
+    {
+      "category": "2",
+      "name": "Moto Gloves"
+    },
+    {
+      "category": "2",
+      "name": "Specialist Gloves"
+    },
+    {
+      "category": "2",
+      "name": "Hydra Gloves"
+    },
+    {
+      "category": "9",
+      "name": "Local T Agent"
+    },
+    {
+      "category": "9",
+      "name": "Local CT Agent"
+    },
+    {
+      "category": "1",
+      "name": "Flip Knife",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD4eOym5Cbm_LmDKvZl3hUvPp9g-7J4bP5iUazrl1vYj-lJIeWIAdsZwmF81Ptl-i6gcW1u53JziY36yUg4C3amBO_10wYcKUx0vPsA3sC/512fx384f"
+    },
+    {
+      "category": "1",
+      "name": "Gut Knife",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxP09m7kZKKm_PLPrrDlGdU4d90jtbN_Iv9nGu4qgE7NnemdtDAIQI7MAnVq1Dsyey7gMPv7Z2cz3Uw6CN04HfVmxLkhR8aPedrm7XAHq0PcRes/512fx384f"
+    },
+    {
+      "category": "1",
+      "name": "Karambit",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20heL2KoTcl3lT5MB4kOzFyoD8j1yglB89IT6mOoadelA8ZAmB_we5ybvrhZTu75rPyHU2syYk7S6IzRC00xhFaLdvhKeACQLJyzW21_8/512fx384f"
+    },
+    {
+      "category": "1",
+      "name": "M9 Bayonet",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-KmsjnMqvBnmJD7fp8i_vD-Yn8klGwlB81NDG3S9rEMFFrfwrRrlG7we3thpDq6cmdyidmsyIlsXeJnh3miUseb-Fp1_fMSF6fAvNXXP7Vdt1CH_A/512fx384f"
+    },
+    {
+      "category": "1",
+      "name": "Huntsman Knife",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20hPbkI7PYhG5u5cRjiOXE_JbwjGu4ohQ0JwavdcTCJxhqMAmD-AW4w-nshZ_t7ZXPnXY1uycr4Xbfl0O0gE0ePbNs1vGYTlSaGeUXS5-eEZVV/512fx384f"
+    },
+    {
+      "category": "9",
+      "name": "Ground Rebel  | Elite Crew"
+    },
+    {
+      "category": "9",
+      "name": "Osiris | Elite Crew"
+    },
+    {
+      "category": "9",
+      "name": "Prof. Shahmat | Elite Crew"
+    },
+    {
+      "category": "9",
+      "name": "The Elite Mr. Muhlik | Elite Crew"
+    },
+    {
+      "category": "9",
+      "name": "Jungle Rebel | Elite Crew"
+    },
+    {
+      "category": "1",
+      "name": "Falchion Knife",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlY20heL2KoTcl3lT5MB4kOzFyoD8j1yglB89IT6mOtOSc1U3YFHZrle5x7u90ZTouJiayXZk63Mm4n2InxTlhUsfaOc8jfeACQLJL06VjiQ/512fx384f"
+    },
+    {
+      "category": "1",
+      "name": "Bowie Knife",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMrXugmJW7ddOhfvA-4vwt1i9rBsoDDWiZtHAbFc2Mg7SrFW8wOq8jJO86pjAzntr7CEnsX_dnhbhhklPbbBpjPKcHw2AR_se0_ywIGs/512fx384f"
+    },
+    {
+      "category": "1",
+      "name": "Butterfly Knife",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GGqOXhMaLum2pD6sl0g_PE8bP5gVO8vywwMiukcZidc1c-YgzZqAW5wu6818LquMnKznRivCIqtC6Ly0O0hU5MPOI90_HPVxzAUGYaPYbg/512fx384f"
+    },
+    {
+      "category": "1",
+      "name": "Shadow Daggers",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4eOskYKZlsj4OrzZglRd6dd2j6fApdX03ley-EdkMWjzJtCdclM2ZlrS_ALtxu-7hZW5uJmczHJhvSAh-z-DyBAi1xKI/512fx384f"
+    },
+    {
+      "category": "1",
+      "name": "Paracord Knife",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD4eOskYKZlsj4OrzZglRd6dd2j6eV84-g3gbi_hJsNmv7JYeUdQA7NFrR-FnqwObphZ7quZzIwCBivXZx-z-DyHnyym7a/512fx384f"
+    },
+    {
+      "category": "1",
+      "name": "Survival Knife",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597d2JkoGPksj4OrzZglRd6dd2j6eYp9Si3ley-EE4NmD3ctTBegJsaA2D-1foxe7q1MDtupXMwSdlu3In-z-DyHch2Jqo/512fx384f"
+    },
+    {
+      "category": "1",
+      "name": "Ursus Knife",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597dGJh4Gbh__9Ib7um2pD6sl0g_PE8bP5gVO8vywwMiukcZiUdVI_ZwmC-Fa-xb_ujZW7ucycyXZg6Ckn4HaIzUGz1BtPauNu1vOZVxzAUD4jS_xv/512fx384f"
+    },
+    {
+      "category": "1",
+      "name": "Navaja Knife",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrcqW9e-NV9j_v-5YT0m1HglB81NDG3S9rEMFFrfw7W-gTqxL3uhJHt6J3KnSNqvygl4XvalxThhRFLa7Zq1KSdTA2ZBvBXXP7Va2MDHgY/512fx384f"
+    },
+    {
+      "category": "9",
+      "name": "Soldier | Phoenix"
+    },
+    {
+      "category": "9",
+      "name": "Enforcer | Phoenix"
+    },
+    {
+      "category": "9",
+      "name": "Slingshot | Phoenix"
+    },
+    {
+      "category": "9",
+      "name": "Street Soldier | Phoenix"
+    },
+    {
+      "category": "1",
+      "name": "Nomad Knife",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3mb-RkvXmMoTdn2xZ_Pp9i_vG8ML22wPmqkM6MWqncobBIAY-MF6E-1C7yOu505K-vM7JyHZh7ikg4C3fgVXp1qXRc4MF/512fx384f"
+    },
+    {
+      "category": "1",
+      "name": "Stiletto Knife",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlY20k_jkI7fUhFRB4MRij73--YXygECLpxIuNDztJIGRIAU6ZguFqVG9kri5hJC578_MnXJr7il24nuLlkTi1BkfOO1m1uveFwsMm3xegg/512fx384f"
+    },
+    {
+      "category": "1",
+      "name": "Talon Knife",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KmsjmJrnIqWZQ-sd9j-Db8IjKhF2zowcDPzixc9OLJ1I2NFjV-Vi_lOjm0JfovM6dnScw7yIj4yrdyRy20B1PZ7Q5g_HIGELeWfJNclpFPg/512fx384f"
+    },
+    {
+      "category": "1",
+      "name": "Skeleton Knife",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlYG0kfbwNoTdn2xZ_Pp9i_vG8MKl3gHl_ERpNTjxcIaQdwc9ZFGFqVi4xOvm05-0v56cy3o16yAl7H7agVXp1u1uX2yB/512fx384f"
+    },
+    {
+      "category": "9",
+      "name": "Operator | FBI SWAT"
+    },
+    {
+      "category": "9",
+      "name": "Markus Delrow | FBI HRT"
+    },
+    {
+      "category": "9",
+      "name": "Michael Syfers  | FBI Sniper"
+    },
+    {
+      "category": "9",
+      "name": "Special Agent Ava | FBI"
+    },
+    {
+      "category": "9",
+      "name": "3rd Commando Company | KSK"
+    },
+    {
+      "category": "9",
+      "name": "Seal Team 6 Soldier | NSWC SEAL"
+    },
+    {
+      "category": "9",
+      "name": "Buckshot | NSWC SEAL"
+    },
+    {
+      "category": "9",
+      "name": "'Two Times' McCoy | USAF TACP"
+    },
+    {
+      "category": "9",
+      "name": "Lt. Commander Ricksaw | NSWC SEAL"
+    },
+    {
+      "category": "9",
+      "name": "Primeiro Tenente | Brazilian 1st Battalion"
+    },
+    {
+      "category": "9",
+      "name": "Dragomir | Sabre"
+    },
+    {
+      "category": "9",
+      "name": "Maximus | Sabre"
+    },
+    {
+      "category": "9",
+      "name": "Rezan The Ready | Sabre"
+    },
+    {
+      "category": "9",
+      "name": "Blackwolf | Sabre"
+    },
+    {
+      "category": "9",
+      "name": "'The Doctor' Romanov | Sabre"
+    },
+    {
+      "category": "9",
+      "name": "Dragomir | Sabre Footsoldier"
+    },
+    {
+      "category": "9",
+      "name": "B Squadron Officer | SAS"
+    },
+    {
+      "category": "9",
+      "name": "D Squadron Officer | NZSAS"
+    },
+    {
+      "category": "12",
+      "name": "Music Kit"
+    },
+    {
+      "category": "4",
+      "name": "M4A1-S",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO3mr-ZkvPLPu_Qx3hu5Mx2gv3--Y3nj1H6rhBpajz6doacJwdraA7U_ADowOa70Me6ucicwHI2v3J2syrUykflgAYMMLJrS8Tuyw/512fx384f"
+    },
+    {
+      "category": "10",
+      "name": "Dust II Pin"
+    },
+    {
+      "category": "10",
+      "name": "Guardian Elite Pin"
+    },
+    {
+      "category": "10",
+      "name": "Mirage Pin"
+    },
+    {
+      "category": "10",
+      "name": "Inferno Pin"
+    },
+    {
+      "category": "10",
+      "name": "Italy Pin"
+    },
+    {
+      "category": "10",
+      "name": "Victory Pin"
+    },
+    {
+      "category": "10",
+      "name": "Militia Pin"
+    },
+    {
+      "category": "10",
+      "name": "Nuke Pin"
+    },
+    {
+      "category": "10",
+      "name": "Train Pin"
+    },
+    {
+      "category": "10",
+      "name": "Guardian Pin"
+    },
+    {
+      "category": "10",
+      "name": "Tactics Pin"
+    },
+    {
+      "category": "10",
+      "name": "Guardian 2 Pin"
+    },
+    {
+      "category": "10",
+      "name": "Bravo Pin"
+    },
+    {
+      "category": "10",
+      "name": "Baggage Pin"
+    },
+    {
+      "category": "10",
+      "name": "Phoenix Pin"
+    },
+    {
+      "category": "10",
+      "name": "Office Pin"
+    },
+    {
+      "category": "10",
+      "name": "Cobblestone Pin"
+    },
+    {
+      "category": "10",
+      "name": "Overpass Pin"
+    },
+    {
+      "category": "10",
+      "name": "Bloodhound Pin"
+    },
+    {
+      "category": "10",
+      "name": "Cache Pin"
+    },
+    {
+      "category": "10",
+      "name": "Valeria Phoenix Pin"
+    },
+    {
+      "category": "10",
+      "name": "Chroma Pin"
+    },
+    {
+      "category": "10",
+      "name": "Guardian 3 Pin"
+    },
+    {
+      "category": "10",
+      "name": "Canals Pin"
+    },
+    {
+      "category": "10",
+      "name": "Welcome to the Clutch Pin"
+    },
+    {
+      "category": "10",
+      "name": "Death Sentence Pin"
+    },
+    {
+      "category": "10",
+      "name": "Inferno 2 Pin"
+    },
+    {
+      "category": "10",
+      "name": "Wildfire Pin"
+    },
+    {
+      "category": "10",
+      "name": "Easy Peasy Pin"
+    },
+    {
+      "category": "10",
+      "name": "Aces High Pin"
+    },
+    {
+      "category": "10",
+      "name": "Hydra Pin"
+    },
+    {
+      "category": "10",
+      "name": "Howl Pin"
+    },
+    {
+      "category": "10",
+      "name": "Brigadier General Pin"
+    },
+    {
+      "category": "10",
+      "name": "Alyx Pin"
+    },
+    {
+      "category": "3",
+      "name": "USP-S",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jnI7LFkGJD7fp9g-7J4bP5iUazrl1ka2qhLIGSIw5vZF-D8wXqwO_tjcC-uZjJnSY3vCkmsXbYlkO0gB1McKUx0vNO72r1/512fx384f"
+    },
+    {
+      "category": "10",
+      "name": "Dust II Pin"
+    },
+    {
+      "category": "10",
+      "name": "Guardian Elite Pin"
+    },
+    {
+      "category": "10",
+      "name": "Mirage Pin"
+    },
+    {
+      "category": "10",
+      "name": "Inferno Pin"
+    },
+    {
+      "category": "10",
+      "name": "Italy Pin"
+    },
+    {
+      "category": "10",
+      "name": "Victory Pin"
+    },
+    {
+      "category": "10",
+      "name": "Militia Pin"
+    },
+    {
+      "category": "10",
+      "name": "Nuke Pin"
+    },
+    {
+      "category": "10",
+      "name": "Train Pin"
+    },
+    {
+      "category": "10",
+      "name": "Guardian Pin"
+    },
+    {
+      "category": "10",
+      "name": "Tactics Pin"
+    },
+    {
+      "category": "10",
+      "name": "Guardian 2 Pin"
+    },
+    {
+      "category": "10",
+      "name": "Bravo Pin"
+    },
+    {
+      "category": "10",
+      "name": "Baggage Pin"
+    },
+    {
+      "category": "10",
+      "name": "Phoenix Pin"
+    },
+    {
+      "category": "10",
+      "name": "Office Pin"
+    },
+    {
+      "category": "10",
+      "name": "Cobblestone Pin"
+    },
+    {
+      "category": "10",
+      "name": "Overpass Pin"
+    },
+    {
+      "category": "10",
+      "name": "Bloodhound Pin"
+    },
+    {
+      "category": "10",
+      "name": "Cache Pin"
+    },
+    {
+      "category": "10",
+      "name": "Valeria Phoenix Pin"
+    },
+    {
+      "category": "10",
+      "name": "Chroma Pin"
+    },
+    {
+      "category": "10",
+      "name": "Guardian 3 Pin"
+    },
+    {
+      "category": "10",
+      "name": "Canals Pin"
+    },
+    {
+      "category": "10",
+      "name": "Welcome to the Clutch Pin"
+    },
+    {
+      "category": "10",
+      "name": "Death Sentence Pin"
+    },
+    {
+      "category": "10",
+      "name": "Inferno 2 Pin"
+    },
+    {
+      "category": "10",
+      "name": "Wildfire Pin"
+    },
+    {
+      "category": "10",
+      "name": "Easy Peasy Pin"
+    },
+    {
+      "category": "10",
+      "name": "Aces High Pin"
+    },
+    {
+      "category": "10",
+      "name": "Hydra Pin"
+    },
+    {
+      "category": "10",
+      "name": "Howl Pin"
+    },
+    {
+      "category": "10",
+      "name": "Brigadier General Pin"
+    },
+    {
+      "category": "10",
+      "name": "Alyx Pin"
+    },
+    {
+      "category": "3",
+      "name": "CZ75-Auto",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v33dDBH_t26kL-HnvD8J4Tdl3lW7Yskib2Wptik2QXg_EQ9a2H3LIOUIVdrZ1HZ8lm5wL2905HvtJrJmiFlpGB8skUfgZfV/512fx384f"
+    },
+    {
+      "category": "3",
+      "name": "R8 Revolver",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3cDx96t2ykb-ZkuH7P63UhFRc7cF4n-T--Y3nj1H6qhBvNWz2d9fEIQY_Y1DVqwDqw7rt1pDvv87JyXAy7iV3tCqJzRO1hQYMMLI2sKHgfg/512fx384f"
+    },
+    {
+      "category": "11",
+      "name": "Distinguished Agents"
+    },
+    {
+      "category": "11",
+      "name": "Exceptional Agents"
+    },
+    {
+      "category": "11",
+      "name": "Superior Agents"
+    },
+    {
+      "category": "11",
+      "name": "Master Agents"
+    },
+    {
+      "category": "4",
+      "name": "AK-47",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszOeC9H_9mkhIWFg8j1OO-GqWlD6dN-teTE8YXghWu4qgE7NnfzdtCTIQM-ZFnWqFLqyb270ZHt6MyanHMxvHYitHzVzBHk1RtOarc8m7XAHlYw1xU4/512fx384f"
+    },
+    {
+      "category": "19",
+      "name": "Operation Wildfire Case Key"
+    },
+    {
+      "category": "4",
+      "name": "AUG",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAR17PLGeDBH092jk7-GkvP9JrbummpD78A_2r2VoNmk31Gw8xVsYGHzddLEJgU9MljW_wLsl-_ngJ-1tJTKm3Jluz5iuygVG_WEBA/512fx384f"
+    },
+    {
+      "category": "10",
+      "name": "5 Year Veteran Coin"
+    },
+    {
+      "category": "10",
+      "name": "Champion at DreamHack 2013"
+    },
+    {
+      "category": "10",
+      "name": "Finalist at DreamHack 2013"
+    },
+    {
+      "category": "10",
+      "name": "Semifinalist at DreamHack 2013"
+    },
+    {
+      "category": "10",
+      "name": "Quarterfinalist at DreamHack 2013"
+    },
+    {
+      "category": "10",
+      "name": "Champion at EMS One Katowice 2014"
+    },
+    {
+      "category": "10",
+      "name": "Finalist at EMS One Katowice 2014"
+    },
+    {
+      "category": "10",
+      "name": "Semifinalist at EMS One Katowice 2014"
+    },
+    {
+      "category": "10",
+      "name": "Quarterfinalist at EMS One Katowice 2014"
+    },
+    {
+      "category": "10",
+      "name": "Champion at ESL One Cologne 2014"
+    },
+    {
+      "category": "10",
+      "name": "Finalist at ESL One Cologne 2014"
+    },
+    {
+      "category": "10",
+      "name": "Semifinalist at ESL One Cologne 2014"
+    },
+    {
+      "category": "10",
+      "name": "Quarterfinalist at ESL One Cologne 2014"
+    },
+    {
+      "category": "10",
+      "name": "Bronze Cologne 2014 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Silver Cologne 2014 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Gold Cologne 2014 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Champion at DreamHack Winter 2014"
+    },
+    {
+      "category": "10",
+      "name": "Finalist at DreamHack Winter 2014"
+    },
+    {
+      "category": "10",
+      "name": "Semifinalist at DreamHack Winter 2014"
+    },
+    {
+      "category": "10",
+      "name": "Quarterfinalist at DreamHack Winter 2014"
+    },
+    {
+      "category": "10",
+      "name": "Bronze DreamHack 2014 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Silver DreamHack 2014 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Gold DreamHack 2014 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Champion at ESL One Katowice 2015"
+    },
+    {
+      "category": "10",
+      "name": "Finalist at ESL One Katowice 2015"
+    },
+    {
+      "category": "10",
+      "name": "Semifinalist at ESL One Katowice 2015"
+    },
+    {
+      "category": "5",
+      "name": "AWP",
+      "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdShR7eO3g5C0m_7zO6_ummpD78A_2rzCo4qgiwLjqkE6MT_0cIaRcAA9Zl3W8gPvw7-9h5PpuJmbm3Jr6T5iuyhpU6MIVQ/512fx384f"
+    },
+    {
+      "category": "10",
+      "name": "Quarterfinalist at ESL One Katowice 2015"
+    },
+    {
+      "category": "10",
+      "name": "Bronze Katowice 2015 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Silver Katowice 2015 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Gold Katowice 2015 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Champion at ESL One Cologne 2015"
+    },
+    {
+      "category": "10",
+      "name": "Finalist at ESL One Cologne 2015"
+    },
+    {
+      "category": "10",
+      "name": "Semifinalist at ESL One Cologne 2015"
+    },
+    {
+      "category": "10",
+      "name": "Quarterfinalist at ESL One Cologne 2015"
+    },
+    {
+      "category": "10",
+      "name": "Bronze Cologne 2015 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Silver Cologne 2015 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Gold Cologne 2015 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Bronze Cluj-Napoca 2015 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Silver Cluj-Napoca 2015 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Gold Cluj-Napoca 2015 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Bronze Cluj-Napoca 2015 Fantasy Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Silver Cluj-Napoca 2015 Fantasy Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Gold Cluj-Napoca 2015 Fantasy Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Champion at DreamHack Cluj-Napoca 2015"
+    },
+    {
+      "category": "10",
+      "name": "Finalist at DreamHack Cluj-Napoca 2015"
+    },
+    {
+      "category": "10",
+      "name": "Semifinalist at DreamHack Cluj-Napoca 2015"
+    },
+    {
+      "category": "10",
+      "name": "Quarterfinalist at DreamHack Cluj-Napoca 2015"
+    },
+    {
+      "category": "10",
+      "name": "Bronze Columbus 2016 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Silver Columbus 2016 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Gold Columbus 2016 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Bronze Columbus 2016 Fantasy Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Silver Columbus 2016 Fantasy Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Gold Columbus 2016 Fantasy Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Champion at MLG Columbus 2016"
+    },
+    {
+      "category": "10",
+      "name": "Finalist at MLG Columbus 2016"
+    },
+    {
+      "category": "10",
+      "name": "Semifinalist at MLG Columbus 2016"
+    },
+    {
+      "category": "10",
+      "name": "Quarterfinalist at MLG Columbus 2016"
+    },
+    {
+      "category": "10",
+      "name": "Champion at ESL One Cologne 2016"
+    },
+    {
+      "category": "10",
+      "name": "Finalist at ESL One Cologne 2016"
+    },
+    {
+      "category": "10",
+      "name": "Semifinalist at ESL One Cologne 2016"
+    },
+    {
+      "category": "10",
+      "name": "Quarterfinalist at ESL One Cologne 2016"
+    },
+    {
+      "category": "10",
+      "name": "Bronze Cologne 2016 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Silver Cologne 2016 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Gold Cologne 2016 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Bronze Cologne 2016 Fantasy Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Silver Cologne 2016 Fantasy Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Gold Cologne 2016 Fantasy Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Champion at ELEAGUE Atlanta 2017"
+    },
+    {
+      "category": "10",
+      "name": "Finalist at ELEAGUE Atlanta 2017"
+    },
+    {
+      "category": "10",
+      "name": "Semifinalist at ELEAGUE Atlanta 2017"
+    },
+    {
+      "category": "10",
+      "name": "Quarterfinalist at ELEAGUE Atlanta 2017"
+    },
+    {
+      "category": "10",
+      "name": "Bronze Atlanta 2017 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Silver Atlanta 2017 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Gold Atlanta 2017 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Champion at PGL Krakow 2017"
+    },
+    {
+      "category": "10",
+      "name": "Finalist at PGL Krakow 2017"
+    },
+    {
+      "category": "10",
+      "name": "Semifinalist at PGL Krakow 2017"
+    },
+    {
+      "category": "10",
+      "name": "Quarterfinalist at PGL Krakow 2017"
+    },
+    {
+      "category": "10",
+      "name": "Bronze Krakow 2017 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Silver Krakow 2017 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Gold Krakow 2017 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Champion at ELEAGUE Boston 2018"
+    },
+    {
+      "category": "10",
+      "name": "Finalist at ELEAGUE Boston 2018"
+    },
+    {
+      "category": "10",
+      "name": "Semifinalist at ELEAGUE Boston 2018"
+    },
+    {
+      "category": "10",
+      "name": "Quarterfinalist at ELEAGUE Boston 2018"
+    },
+    {
+      "category": "10",
+      "name": "Bronze Boston 2018 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Silver Boston 2018 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Gold Boston 2018 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Champion at FACEIT London 2018"
+    },
+    {
+      "category": "10",
+      "name": "Finalist at FACEIT London 2018"
+    },
+    {
+      "category": "10",
+      "name": "Semifinalist at FACEIT London 2018"
+    },
+    {
+      "category": "10",
+      "name": "Quarterfinalist at FACEIT London 2018"
+    },
+    {
+      "category": "10",
+      "name": "Bronze London 2018 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Silver London 2018 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "Gold London 2018 Pick'Em Trophy"
+    },
+    {
+      "category": "10",
+      "name": "10 Year Veteran Coin"
+    },
+    {
+      "category": "10",
+      "name": "Loyalty Badge"
+    },
+    {
+      "category": "10",
+      "name": "Champion at IEM Katowice 2019"
+    },
+    {
+      "category": "10",
+      "name": "Finalist at IEM Katowice 2019"
+    },
+    {
+      "category": "10",
+      "name": "Semifinalist at IEM Katowice 2019"
+    },
+    {
+      "category": "10",
+      "name": "Quarterfinalist at IEM Katowice 2019"
+    },
+    {
+      "category": "10",
+      "name": "Champion at StarLadder Berlin 2019"
+    },
+    {
+      "category": "10",
+      "name": "Finalist at StarLadder Berlin 2019"
+    },
+    {
+      "category": "10",
+      "name": "Semifinalist at StarLadder Berlin 2019"
+    },
+    {
+      "category": "10",
+      "name": "Quarterfinalist at StarLadder Berlin 2019"
+    },
+    {
+      "category": "10",
+      "name": "Champion at PGL Stockholm 2021"
+    },
+    {
+      "category": "10",
+      "name": "Finalist at PGL Stockholm 2021"
+    },
+    {
+      "category": "10",
+      "name": "Semifinalist at PGL Stockholm 2021"
+    },
+    {
+      "category": "10",
+      "name": "Quarterfinalist at PGL Stockholm 2021"
+    }
+  ]
+}

@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="/resources/css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Spartan:wght@200;300;400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <script src="/resources/js/script.js" defer></script>
+    <title>AVASKINS</title>
+  </head>
+  <body id="index">
+    <div class="headerLayout">
+      <div class="header-container">
+          <div class="header-container-left">
+          <a href="index.html"><span>AVASKINS</span></a>
+          <div class="search-wrapper">
+            <label for="SearchInput" class="search-field">
+              <ion-icon name="search"></ion-icon>
+              <input type="text" id="find" name="find" class="input-field" placeholder="Search for CS:GO skins" maxlength="40" data-search></imput>
+              <button class="search-button" type="submit">Search</button>
+            </label>
+            <div class="search-items-container" search-data-item-container>
+              <template search-data-item-template>
+                <a href="" search-data-item-aLink>
+                  <div class="search-item">
+                    <img src="" alt="" class="search-item-image" search-data-item-image>
+                    <div class="search-item-name" search-data-item-name></div>
+                  </div>
+                </a>
+              </template>
+            </div>
+        </div>
+          </div>
+          <div class="header-container-right">
+              <a class="login" href="login.html">Login</a>
+              <a class="login" href="register.html">Register</a>
+          </div>
+          <div class="header-account-container">
+            <div class="account-basket">
+              <ion-icon name="basket-outline"></ion-icon>
+              <span class="basket-quantity"></span>
+            </div>
+            <div class="account-favourite">
+              <ion-icon name="heart-circle-outline"></ion-icon>
+            </div>
+            <div class="account-profile">
+              <img src="resources/img/queen.jpg">
+              <ion-icon name="caret-down-outline"></ion-icon>
+            </div>
+          </div>
+          <div class="account-profile-dropdown">
+            <div class="account-profile-dropdown-header">
+                Scarlfe fily
+            </div>
+            <div class="account-dropdown-separate"></div>
+            <div class="account-profile-dropdown-links">
+              <a href="#">
+                <div class="account-profile-dropdown-link">
+                <ion-icon name="bag-outline"></ion-icon>
+                My items
+                </div>
+              </a>
+              <a href="#">
+                <div class="account-profile-dropdown-link">
+                <ion-icon name="heart-circle-outline"></ion-icon>
+                Favourite
+                </div>
+              </a>
+              <div class="account-dropdown-separate"></div>
+              <a href="#">
+                <div class="account-profile-dropdown-link">
+                <ion-icon name="settings-outline"></ion-icon>
+                Settings
+                </div>
+              </a>
+              <a href="#">
+                <div class="account-profile-dropdown-link">
+                <ion-icon name="bag-check-outline"></ion-icon>
+                My purchases
+                </div>
+              </a>
+              <a href="#">
+                <div class="account-profile-dropdown-link">
+                <ion-icon name="card-outline"></ion-icon>
+                Transactions
+                </div>
+              </a>
+              <a href="#">
+                <div class="account-profile-dropdown-link">
+                <ion-icon name="aperture-outline"></ion-icon>
+                Support
+                </div>
+              </a>
+            </div>
+            <div class="account-dropdown-separate"></div>
+            <div class="account-profile-dropdown-footer">
+              <a href="#">
+                <div class="account-profile-dropdown-footer-link">
+                <ion-icon name="log-out-outline"></ion-icon>
+                Log out
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="account-basket-dropdown">
+            <div class="account-basket-dropdown-header">
+              <div class="basket-dropdown-header-left">
+                0 ITEMS IN BASKET
+              </div>
+              <div class="basket-dropdown-header-right">
+                <ion-icon name="close-outline"></ion-icon>
+              </div>
+            </div>
+            <div class="account-basket-dropdown-items">
+              <template data-basket-dropdown-item-template>
+                <a href="" data-basket-dropdown-item-a_Link>
+                <div class="basket-dropdown-item">
+                  <img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdTRH-t26q4SZlvD7PYTQgXtu5Mx2gv3--Y3nj1H6qBFvMWHyIo7Adw9raF6GrlK9lLi-jJO7tJ_JzyNh63F3sX_emUPkgQYMMLL2MDRAbQ/512fx384f" data-basket-dropdown-item-image>
+                  <div class="basket-dropdown-item-info-left">
+                    <span class="basket-dropdown-item-type" data-basket-dropdown-item-type></span>
+                    <span class="basket-dropdown-item-name" data-basket-dropdown-item-name></span>
+                    <span class="basket-dropdown-item-wear" data-basket-dropdown-item-wear></span>
+                  </div>
+                  <div class="basket-dropdown-item-info-right">
+                    <span class="basket-dropdown-item-price" data-basket-dropdown-item-price></span>
+                    <div class="basket-dropdown-item-input">
+                      <button type="button" class="basket-dropdown-item-add"><ion-icon name="add-outline"></ion-icon></button>
+                      <input type="number" value="1" maxlength="3" oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);">
+                      <button type="button" class="basket-dropdown-item-remove"><ion-icon name="remove-outline"></ion-icon></button>
+                    </div>
+                    <button type="button" class="basket-dropdown-item-removeBtn">
+                      <ion-icon name="trash-outline"></ion-icon>
+                    </button>
+                  </div>
+                </div>
+              </a>         
+            </template>
+            </div>
+            <div class="account-basket-dropdown-footer">
+              <div class="basket-dropdown-footer-left">
+                Total
+              </div>
+              <div class="basket-dropdown-footer-right">
+                <span class="basket-dropdown-footer-right-total">0.00 USD</span>
+              </div>
+            </div>
+            <div class="account-basket-dropdown-footer-btns">
+              <button type="button" class="basket-dropdown-view-btn">VIEW BASKET</button>
+              <button type="button" class="basket-dropdown-clear">CLEAR BASKET</button>
+            </div>
+          </div>
+          <div class="account-favourite-dropdown">
+            <div class="account-favourite-dropdown-header">
+              <div class="favourite-dropdown-header-left">
+                0 ITEMS IN YOUR FAVOURITE
+              </div>
+              <div class="favourite-dropdown-header-right">
+                <ion-icon name="close-outline"></ion-icon>
+              </div>
+            </div>
+            <div class="account-favourite-dropdown-items">
+              <template data-favourite-dropdown-item-template>
+                <a href="" data-favourite-dropdown-item-a_Link>
+                <div class="favourite-dropdown-item">
+                  <img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdTRH-t26q4SZlvD7PYTQgXtu5Mx2gv3--Y3nj1H6qBFvMWHyIo7Adw9raF6GrlK9lLi-jJO7tJ_JzyNh63F3sX_emUPkgQYMMLL2MDRAbQ/512fx384f" data-favourite-dropdown-item-image>
+                  <div class="favourite-dropdown-item-info-left">
+                    <span class="favourite-dropdown-item-type" data-favourite-dropdown-item-type></span>
+                    <span class="favourite-dropdown-item-name" data-favourite-dropdown-item-name></span>
+                    <span class="favourite-dropdown-item-wear" data-favourite-dropdown-item-wear></span>
+                  </div>
+                  <div class="favourite-dropdown-item-info-right">
+                    <button type="button" class="favourite-dropdown-item-removeBtn">
+                      <ion-icon name="heart-dislike-circle-outline"></ion-icon>
+                    </button>
+                  </div>
+                </div>
+              </a>         
+            </template>
+            </div>
+            <div class="account-favourite-dropdown-footer-btn">
+              <button type="button" class="favourite-dropdown-clear">CLEAR FAVOURITE</button>
+            </div>
+          </div>
+      </div>
+      <div class="header-menu">
+          <div class="header-menu-list">
+            <div class="header-menu-item notOverflown"id="1">knifes</div>
+            <div class="header-menu-item notOverflown"onclick="window.location.href='market.html?type=Gloves'">gloves</div>
+            <div class="header-menu-item notOverflown" id="3">pistols</div>
+            <div class="header-menu-item notOverflown" id="4">rifles</div>
+            <div class="header-menu-item notOverflown" id="5">snipers</div>
+            <div class="header-menu-item notOverflown" id="6">smg's</div>
+            <div class="header-menu-item notOverflown" id="7">heavy</div>
+            <div class="header-menu-item notOverflown" id="8">submachine&nbsp;guns</div> 
+            <div class="header-menu-item notOverflown" onclick="window.location.href='market.html?type=Case'">case</div>
+            <div class="header-menu-item notOverflown" onclick="window.location.href='market.html?type=Collection'">collection</div>
+            <div class="header-menu-item notOverflown" onclick="window.location.href='market.html?type=Souvenir'">souvenir</div>
+            <div class="header-menu-item notOverflown" onclick="window.location.href='market.html?type=Stickers'">stickers</div>
+            <div class="header-menu-item notOverflown" onclick="window.location.href='market.html?type=Patches'">patches</div>
+          </div>
+          <div class="header-overflown-btn">more<ion-icon name="caret-down-outline" class="overflownIcon"></ion-icon></div>
+          <div class="header-overflown-container">
+          </div>
+      </div>
+      <div class="header-menu-subcat">
+          <div class="header-menu-subcat-container" data-header-menu-subcat-container>
+            <template data-header-menu-subcat-template>
+              <a href="" data-header-menu-subcat-item-aLink>
+                <div class="header-menu-subcat-item" name="" data-header-menu-subcat-item>
+                  <span data-header-menu-subcat-name class="subcat-item-name"></span>
+                  <div class="image-subcat-container">
+                    <img src="" alt="" data-header-menu-subcat-image>
+                  </div>
+                  <div class="subcat-item-bottomTriangle"></div>
+                </div>
+              </a>
+            </template>
+          </div>
+          <div class="header-menu-subcat-all">
+            <a href="market.html" class="header-menu-subcat-all_aLink">
+              <div class="header-menu-subcat-all-content">
+                <span>check all rifles</span>
+                <ion-icon name="chevron-forward-outline"></ion-icon>
+              </div>
+            </a>
+          </div>
+          <button type="button" class="closeSubcatContainerBtn">Close</button>
+          <button type='button' class='buttonWrapper-prev'><ion-icon name="chevron-back-outline"></ion-icon></button>
+          <button type='button' class='buttonWrapper-next'><ion-icon name="chevron-forward-outline"></ion-icon></button>
+      </div>
+      <div class="header-menu-subcat-hovercat">
+        <button type="button" class="hovercat-btnWrapper-prev" data-hovercat-btn><ion-icon name="chevron-back-sharp"></ion-icon></button>
+        <button type="button" class="hovercat-btnWrapper-next" data-hovercat-btn><ion-icon name="chevron-forward-sharp"></ion-icon></button>
+        <div class="header-menu-subcat-hovercat-container">
+          <template data-header-menu-subcat-hovercat-template>
+            <a href="#" data-hovercat-item-aLink>
+              <div class="hovercat-item" data-hovercat-item>
+                <div class="hovercat-item-rarity" data-item-rarity></div>
+                <div class="hovercat-item-image">
+                  <img src="" alt="" data-hovercat-item-image>
+                </div>
+                <div class="hovercat-item-name" data-hovercat-item-name></div>
+                <div class="hovercat-item-extras">
+                  <div class="hovercat-item-extra" data-item-extra-st></div>
+                  <div class="hovercat-item-extra" data-item-extra-sv></div>
+                </div>
+                <div class="hovercat-item-wears" data-hovercat-item-wears>
+                </div>
+              </div>
+            </a>
+          </template>
+        </div>
+      </div>
+    </div>
+    <div class="imageLayout">
+      <div class="image-background"></div>
+      <div class="image-container">
+        <div class="image-container-info">
+          <span>Buy CS:GO skins and items cheaper!</span>
+          <span>We offer the cheapest skins on the market</span>
+        </div>
+        <button class="image-container-btn" data-image-container-btn-prev><ion-icon name="chevron-back-outline"></ion-icon></button>
+        <button class="image-container-btn" data-image-container-btn-next><ion-icon name="chevron-forward-outline"></ion-icon></button>
+      </div>
+    </div>
+    <div class="newContentLayout">
+      <div class="newContent-container">
+        <video autoplay muted loop id="myVideo">
+          <source src="resources/img/fire1_AdobeCreativeCloudExpress.mp4" type="video/mp4">
+        </video>
+          <h2>Snakebite case is here!</h2>
+          <div class="newContent-image">
+            <img src="/resources/img/SnakeBite_case_256fx256f.png" title="Snakebite Case">
+          </div>
+          <div class="newContent-items-parent">
+            <div class="newContent-rarity">
+              <ion-icon name="reorder-three-sharp"></ion-icon>
+              <span class="currentRarity">Contraband</span>
+            </div>
+            <div class="newContent-rarity-subcat-container">
+              <div class="newContent-rarity-subcat-item rarity1" name="Rare Special Items">Contraband</div>
+              <div class="newContent-rarity-subcat-item rarity2" name="Covert Skins">Master</div>
+              <div class="newContent-rarity-subcat-item rarity3" name="Classified Skins">Superior</div>
+              <div class="newContent-rarity-subcat-item rarity4" name="Restricted Skins">Exceptional</div>
+              <div class="newContent-rarity-subcat-item rarity5" name="Mil-Spec Skins">Distinguished</div>
+
+            </div>
+            <div class="newContent-items-container" data-newContent-items-container>
+              <template data-newContent-items-template>
+                <div class="content-item">
+                  <div class="content-item-info-left">
+                    <span data-content-item-name></span>
+                    <p data-content-item-desc></p>
+                  </div>
+                  <div class="content-item-image">
+                    <img src="" alt="" data-content-item-image>
+                </div>
+                <div class="content-item-info-right">
+                    <span data-content-item-name>est quis lorem</span>
+                    <a href="" data-content-item-aLink>
+                      Check on Market<ion-icon name="chevron-forward-outline" class="content-item-right-ion-icon"></ion-icon>
+                    </a>
+                </div>
+              </div>
+            </template>
+            </div>
+            <div class="newContent-btns">
+              <button type="button" id="newContent-buttonWrapper-prev" class="newConent-btn"><ion-icon name="arrow-back-outline"></ion-icon></button>
+              <button type="button" id="newContent-buttonWrapper-next" class="newConent-btn"><ion-icon name="arrow-forward-outline"></ion-icon></button>
+            </div>
+        </div>
+      </div>
+    </div>
+    <div class="infoLayout">
+      <div class="info-section">
+        <div class="info-section-header">
+          <h1>Buy CSGO Skins and Items - Easy and Secure with AVASKINS</h1>
+          <p>Safe. Fast. Reliable.
+            AVASKINS is one of the best CSGO marketplace to buy CSGO Skins.
+            With zero buyer fees we always ensure the cheapest skin prices for our customers.
+            AVASKINS'es massive user base allows you to buy skins & items almost instantly.</p>
+        </div>
+        <div class="info-section-midcontainer">
+          <div class="info-section-midcontainer-item">
+            <div class="midcontainer midcontainer-item-image-container left-side">
+              <img src="resources/img/skins-csgo-png-5-Transparent-Images.png" alt="">
+            </div>
+            <div class="midcontainer midcontainer-item-info right-side">
+              <h3>An Introduction to CSGO Skins</h3>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Praesent tempus est quis lorem gravida pulvinar.
+                Cras risus sem, luctus eu mauris quis, elementum aliquam magna. 
+                Suspendisse ac purus venenatis, ornare ipsum at, egestas nisi. 
+                Suspendisse tristique lacus tellus, eu dapibus tellus rhoncus sed. 
+                Curabitur id lobortis lectus, sit amet pharetra.
+              </p>
+            </div>
+          </div>
+          <div class="info-section-midcontainer-item">
+            <div class="midcontainer midcontainer-item-info left-side">
+              <h3>What is the Skinport Market?</h3>
+              <p>
+                Aenean aliquam lacinia sem, pharetra cursus est.
+                Vivamus id vestibulum sapien, nec maximus libero. Duis eu nunc tortor.
+                Aenean molestie ante ipsum, volutpat tempor nunc pellentesque sit amet.
+                Suspendisse ac nulla turpis. Donec auctor sollicitudin lectus sagittis semper.
+                Nulla porta, orci sit amet scelerisque mollis, neque purus fringilla enim, nec venenatis mi diam vel ante.
+                Nam non justo ultricies, ultrices.
+              </p>
+            </div>
+            <div class="midcontainer midcontainer-item-image-container right-side">
+              <img src="resources/img/free-csgo-skins-spectrum-case.png" alt="">
+            </div>
+          </div>
+          <div class="info-section-midcontainer-item">
+            <div class="midcontainer midcontainer-item-image-container left-side">
+              <img src="resources/img/ultra-rare-csgo-case.png" alt="">
+            </div>
+            <div class="midcontainer midcontainer-item-info right-side">
+              <h3>How is AVASKINS different from the Steam Market?</h3>
+              <p>
+                Fusce eu augue pretium felis tincidunt scelerisque nec sit amet leo.
+                Donec id neque a massa consectetur pretium ornare eu justo.
+                Suspendisse vitae imperdiet neque, ut malesuada orci.
+                Morbi imperdiet auctor eleifend. Integer ac nibh eu justo efficitur varius.
+                Nam tempor nec lorem vitae tempor.
+                Vestibulum placerat auctor elit, ut suscipit neque sodales non.
+                Nam at enim aliquet, tincidunt sapien eu, imperdiet ipsum.
+                Nulla ultricies laoreet pulvinar.
+                Donec viverra, elit vitae congue.
+              </p>
+            </div>
+          </div>
+          <div class="info-section-midcontainer-item">
+            <div class="midcontainer midcontainer-item-info left-side">
+              <h3>How to buy CSGO skins on AVASKINS</h3>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Praesent tempus est quis lorem gravida pulvinar.
+                Cras risus sem, luctus eu mauris quis, elementum aliquam magna.
+                Suspendisse ac purus venenatis, ornare ipsum at, egestas nisi.
+                Suspendisse tristique lacus tellus, eu dapibus tellus rhoncus sed.
+                Curabitur id lobortis lectus, sit amet pharetra.
+              </p>
+            </div>
+            <div class="midcontainer midcontainer-item-image-container right-side">
+              <img src="resources/img/skins-csgo-png-5-Transparent-Images.png" alt="">
+            </div>
+          </div>
+          <div class="info-section-midcontainer-item">
+            <div class="midcontainer midcontainer-item-image-container left-side">
+              <img src="resources/img/skins-csgo-png-5-Transparent-Images.png" alt="">
+            </div>
+            <div class="midcontainer midcontainer-item-info right-side">
+              <h3>AVASKINS – the CS:GO marketplace</h3>
+              <p>
+                Quisque quis felis id diam ultricies venenatis non ac augue.
+                Nunc maximus sit amet nisi sed hendrerit.
+                Aliquam vestibulum rhoncus velit, ac aliquam erat scelerisque mattis.
+                Duis elementum, ex eu porttitor tincidunt.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+      <div class="footerLayout">
+        <div class="footer-container">
+          <div class="footer-payment-methods">
+            <span>Payment Methods : </span>
+            <div class="payment-method">
+              <img src="/resources/img/payment_methods_svg/amex.svg" alt="amex">
+            </div>
+            <div class="payment-method">
+              <img src="/resources/img/payment_methods_svg/applepay.svg" alt="applepay">
+            </div>
+            <div class="payment-method">
+              <img src="/resources/img/payment_methods_svg/blik.svg" alt="blik">
+            </div>
+            <div class="payment-method">
+              <img src="/resources/img/payment_methods_svg/dotpay.svg" alt="dotpay">
+            </div>
+            <div class="payment-method">
+              <img src="/resources/img/payment_methods_svg/maestro.svg" alt="maestro">
+            </div>
+            <div class="payment-method">
+              <img src="/resources/img/payment_methods_svg/mc.svg" alt="mc">
+            </div>
+            <div class="payment-method">
+              <img src="/resources/img/payment_methods_svg/visa.svg" alt="visa">
+            </div>
+          </div>
+          <div class="footer-about-list">
+            <ul>
+              <a href="#"><li class="footer-about-item">about us</li></a>
+              <a href="#"><li class="footer-about-item">affiliate</li></a>
+              <a href="#"><li class="footer-about-item">blog</li></a>
+              <a href="#"><li class="footer-about-item">text</li></a>
+            </ul>
+            <ul>
+              <a href="#"><li class="footer-about-item">faq</li></a>
+              <a href="#"><li class="footer-about-item">support</li></a>
+              <a href="#"><li class="footer-about-item">privacy</li></a>
+              <a href="#"><li class="footer-about-item">terms of service</li></a>
+            </ul>
+          </div>
+          <div class="footer-copyright">
+            <span>© 2022 AVASKINS</span><br>
+            <span>All rights reserved</span>
+          </div>
+        </div>
+      </div>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+  </body>
+</html>
